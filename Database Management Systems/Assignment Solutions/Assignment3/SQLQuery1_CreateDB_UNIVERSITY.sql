@@ -1,0 +1,90 @@
+-- Microsoft SQL Script to Create the UNIVERSITY: Database and Database Objects
+
+-- Creating Database Schema
+DROP DATABASE IF EXISTS UNIVERSITY;
+CREATE DATABASE UNIVERSITY;
+
+USE UNIVERSITY;
+
+-- Creating Tables
+DROP TABLE IF EXISTS STUDENT;
+CREATE TABLE STUDENT (
+Name VARCHAR(30) NOT NULL,
+Student_number INTEGER NOT NULL,
+Class CHAR NOT NULL,
+Major CHAR(4),
+PRIMARY KEY (Student_number)
+);
+
+DROP TABLE IF EXISTS COURSE;
+CREATE TABLE COURSE ( 
+Course_name VARCHAR(30) NOT NULL,
+Course_number CHAR(8) NOT NULL,
+Credit_hours INTEGER,
+Department CHAR(4),
+PRIMARY KEY (Course_number),
+UNIQUE (Course_name)
+);
+
+DROP TABLE IF EXISTS SECTION;
+CREATE TABLE SECTION ( 
+Section_identifier INTEGER NOT NULL,
+Course_number CHAR(8) NOT NULL,
+Semester VARCHAR(6) NOT NULL,
+Year CHAR(4) NOT NULL,
+Instructor VARCHAR(15),
+PRIMARY KEY (Section_identifier),
+FOREIGN KEY (Course_number) REFERENCES COURSE (Course_number) 
+);
+
+DROP TABLE IF EXISTS GRADE_REPORT;
+CREATE TABLE GRADE_REPORT ( 
+Student_number INTEGER NOT NULL,
+Section_identifier INTEGER NOT NULL,
+Grade CHAR,
+PRIMARY KEY (Student_number, Section_identifier),
+FOREIGN KEY (Student_number) REFERENCES STUDENT (Student_number),
+FOREIGN KEY (Section_identifier) REFERENCES SECTION (Section_identifier)
+);
+
+DROP TABLE IF EXISTS PREREQUISITE;
+CREATE TABLE PREREQUISITE ( 
+Course_number CHAR(8) NOT NULL,
+Prerequisite_number CHAR(8) NOT NULL,
+PRIMARY KEY (Course_number, Prerequisite_number),
+FOREIGN KEY (Course_number) REFERENCES COURSE (Course_number),
+FOREIGN KEY (Prerequisite_number) REFERENCES COURSE (Course_number)
+);
+
+-- Inserting values inside the Tables
+INSERT INTO STUDENT VALUES ('Smith', 17, '1', 'CS');
+INSERT INTO STUDENT VALUES ('Brown', 8, '2', 'CS');
+
+INSERT INTO COURSE VALUES ('Intro to Computer Science', 'CS1310', 4, 'CS');
+INSERT INTO COURSE VALUES ('Data Structures', 'CS3320', 4, 'CS');
+INSERT INTO COURSE VALUES ('Discrete Mathematics', 'MATH2410', 3, 'MATH');
+INSERT INTO COURSE VALUES ('Database', 'CS3380', 3, 'CS');
+
+INSERT INTO SECTION VALUES (85, 'MATH2410', 'Fall', '07', 'King');
+INSERT INTO SECTION VALUES (92, 'CS1310', 'Fall', '07', 'Anderson');
+INSERT INTO SECTION VALUES (102, 'CS3320', 'Spring', '08', 'Knuth');
+INSERT INTO SECTION VALUES (112, 'MATH2410', 'Fall', '08', 'Chang');
+INSERT INTO SECTION VALUES (119, 'CS1310', 'Fall', '08', 'Anderson');
+INSERT INTO SECTION VALUES (135, 'CS3380', 'Fall', '08', 'Stone');
+
+INSERT INTO GRADE_REPORT VALUES (17, 112, 'B');
+INSERT INTO GRADE_REPORT VALUES (17, 119, 'C');
+INSERT INTO GRADE_REPORT VALUES (8, 85, 'A');
+INSERT INTO GRADE_REPORT VALUES (8, 92, 'A');
+INSERT INTO GRADE_REPORT VALUES (8, 102, 'B');
+INSERT INTO GRADE_REPORT VALUES (8, 135, 'A');
+
+INSERT INTO PREREQUISITE VALUES ('CS3380', 'CS3320');
+INSERT INTO PREREQUISITE VALUES ('CS3380', 'MATH2410');
+INSERT INTO PREREQUISITE VALUES ('CS3320', 'CS1310');
+
+
+
+
+
+
