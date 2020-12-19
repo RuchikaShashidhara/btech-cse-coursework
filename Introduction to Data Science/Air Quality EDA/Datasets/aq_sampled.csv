@@ -1,0 +1,1153 @@
+Station,Air Quality,Longitude,Latitude,O3 Hour,O3 Quality,O3 Value,NO2 Hour,NO2 Quality,NO2 Value,PM10 Hour,PM10 Quality,PM10 Value,Generated,Date Time
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,23h,Good,27,NA,NA,NA,15-11-2018 00:00,1542236701
+Barcelona - Eixample,Good,2.1538,41.3853,23h,Good,25,23h,Good,48,23h,Good,33,15-11-2018 00:00,1542236701
+Barcelona - Gràcia,Good,2.1534,41.3987,23h,Good,24,23h,Good,47,NA,NA,NA,15-11-2018 00:00,1542236701
+Barcelona - Ciutadella,Good,2.1874,41.3864,23h,Good,36,23h,Good,23,NA,NA,NA,15-11-2018 00:00,1542236701
+Barcelona - Vall Hebron,Good,2.148,41.4261,23h,Good,19,23h,Good,52,23h,Good,26,15-11-2018 00:00,1542236701
+Barcelona - Palau Reial,Good,2.1151,41.3875,23h,Good,28,23h,Good,36,23h,Good,25,15-11-2018 00:00,1542236701
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,23h,Good,26,23h,Good,29,15-11-2018 00:00,1542236701
+Barcelona - Observ Fabra,Good,2.1239,41.4183,23h,Good,54,23h,Good,21,23h,Good,21,15-11-2018 00:00,1542236701
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,0h,Good,15,NA,NA,NA,15-11-2018 01:00,1542240302
+Barcelona - Eixample,Good,2.1538,41.3853,0h,Good,35,0h,Good,39,0h,Good,33,15-11-2018 01:00,1542240302
+Barcelona - Gràcia,Good,2.1534,41.3987,0h,Good,47,0h,Good,21,NA,NA,NA,15-11-2018 01:00,1542240302
+Barcelona - Ciutadella,Good,2.1874,41.3864,0h,Good,46,0h,Good,12,NA,NA,NA,15-11-2018 01:00,1542240302
+Barcelona - Vall Hebron,Good,2.148,41.4261,0h,Good,20,0h,Good,44,0h,Good,26,15-11-2018 01:00,1542240302
+Barcelona - Palau Reial,Good,2.1151,41.3875,0h,Good,48,0h,Good,13,0h,Good,25,15-11-2018 01:00,1542240302
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,0h,Good,9,0h,Good,29,15-11-2018 01:00,1542240302
+Barcelona - Observ Fabra,Good,2.1239,41.4183,0h,Good,66,0h,Good,10,0h,Good,21,15-11-2018 01:00,1542240302
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,1h,Good,20,NA,NA,NA,15-11-2018 02:00,1542243902
+Barcelona - Eixample,Good,2.1538,41.3853,1h,Good,36,1h,Good,35,1h,Good,33,15-11-2018 02:00,1542243902
+Barcelona - Gràcia,Good,2.1534,41.3987,1h,Good,54,1h,Good,12,NA,NA,NA,15-11-2018 02:00,1542243902
+Barcelona - Ciutadella,Good,2.1874,41.3864,1h,Good,49,1h,Good,10,NA,NA,NA,15-11-2018 02:00,1542243902
+Barcelona - Vall Hebron,Good,2.148,41.4261,1h,Good,34,1h,Good,25,1h,Good,26,15-11-2018 02:00,1542243902
+Barcelona - Palau Reial,Good,2.1151,41.3875,1h,Good,51,1h,Good,8,1h,Good,25,15-11-2018 02:00,1542243902
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,1h,Good,6,1h,Good,29,15-11-2018 02:00,1542243902
+Barcelona - Observ Fabra,Good,2.1239,41.4183,1h,Good,64,1h,Good,10,1h,Good,20,15-11-2018 02:00,1542243902
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,2h,Good,16,NA,NA,NA,15-11-2018 03:00,1542247502
+Barcelona - Eixample,Good,2.1538,41.3853,2h,Good,32,2h,Good,31,2h,Good,33,15-11-2018 03:00,1542247502
+Barcelona - Gràcia,Good,2.1534,41.3987,2h,Good,39,2h,Good,19,NA,NA,NA,15-11-2018 03:00,1542247502
+Barcelona - Ciutadella,Good,2.1874,41.3864,2h,Good,42,2h,Good,15,NA,NA,NA,15-11-2018 03:00,1542247502
+Barcelona - Vall Hebron,Good,2.148,41.4261,2h,Good,39,2h,Good,15,2h,Good,27,15-11-2018 03:00,1542247502
+Barcelona - Palau Reial,Good,2.1151,41.3875,2h,Good,46,2h,Good,9,2h,Good,25,15-11-2018 03:00,1542247502
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,2h,Good,15,2h,Good,28,15-11-2018 03:00,1542247502
+Barcelona - Observ Fabra,Good,2.1239,41.4183,2h,Good,67,2h,Good,7,2h,Good,20,15-11-2018 03:00,1542247502
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,3h,Good,15,NA,NA,NA,15-11-2018 04:00,1542251102
+Barcelona - Eixample,Good,2.1538,41.3853,3h,Good,32,3h,Good,27,3h,Good,33,15-11-2018 04:00,1542251102
+Barcelona - Gràcia,Good,2.1534,41.3987,3h,Good,40,3h,Good,15,NA,NA,NA,15-11-2018 04:00,1542251102
+Barcelona - Ciutadella,Good,2.1874,41.3864,3h,Good,30,3h,Good,21,NA,NA,NA,15-11-2018 04:00,1542251102
+Barcelona - Vall Hebron,Good,2.148,41.4261,3h,Good,37,3h,Good,12,3h,Good,27,15-11-2018 04:00,1542251102
+Barcelona - Palau Reial,Good,2.1151,41.3875,3h,Good,46,3h,Good,6,3h,Good,25,15-11-2018 04:00,1542251102
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,3h,Good,22,3h,Good,28,15-11-2018 04:00,1542251102
+Barcelona - Observ Fabra,Good,2.1239,41.4183,3h,Good,71,3h,Good,5,3h,Good,19,15-11-2018 04:00,1542251102
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,4h,Good,12,NA,NA,NA,15-11-2018 05:00,1542254701
+Barcelona - Eixample,Good,2.1538,41.3853,4h,Good,33,4h,Good,24,4h,Good,33,15-11-2018 05:00,1542254701
+Barcelona - Gràcia,Good,2.1534,41.3987,4h,Good,40,4h,Good,15,NA,NA,NA,15-11-2018 05:00,1542254701
+Barcelona - Ciutadella,Good,2.1874,41.3864,4h,Good,33,4h,Good,18,NA,NA,NA,15-11-2018 05:00,1542254701
+Barcelona - Vall Hebron,Good,2.148,41.4261,4h,Good,40,4h,Good,10,4h,Good,28,15-11-2018 05:00,1542254701
+Barcelona - Palau Reial,Good,2.1151,41.3875,4h,Good,43,4h,Good,6,4h,Good,25,15-11-2018 05:00,1542254701
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,4h,Good,18,4h,Good,28,15-11-2018 05:00,1542254701
+Barcelona - Observ Fabra,Good,2.1239,41.4183,4h,Good,71,4h,Good,4,4h,Good,19,15-11-2018 05:00,1542254701
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,5h,Good,10,NA,NA,NA,15-11-2018 06:00,1542258301
+Barcelona - Eixample,Good,2.1538,41.3853,5h,Good,40,5h,Good,23,5h,Good,33,15-11-2018 06:00,1542258301
+Barcelona - Gràcia,Good,2.1534,41.3987,5h,Good,47,5h,Good,10,NA,NA,NA,15-11-2018 06:00,1542258301
+Barcelona - Ciutadella,Good,2.1874,41.3864,5h,Good,52,5h,Good,9,NA,NA,NA,15-11-2018 06:00,1542258301
+Barcelona - Vall Hebron,Good,2.148,41.4261,5h,Good,47,5h,Good,10,5h,Good,27,15-11-2018 06:00,1542258301
+Barcelona - Palau Reial,Good,2.1151,41.3875,5h,Good,45,5h,Good,6,5h,Good,25,15-11-2018 06:00,1542258301
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,5h,Good,9,5h,Good,27,15-11-2018 06:00,1542258301
+Barcelona - Observ Fabra,Good,2.1239,41.4183,5h,Good,71,5h,Good,4,5h,Good,18,15-11-2018 06:00,1542258301
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,6h,Good,7,NA,NA,NA,15-11-2018 07:00,1542261901
+Barcelona - Eixample,Good,2.1538,41.3853,6h,Good,51,6h,Good,18,6h,Good,32,15-11-2018 07:00,1542261901
+Barcelona - Gràcia,Good,2.1534,41.3987,6h,Good,61,6h,Good,9,NA,NA,NA,15-11-2018 07:00,1542261901
+Barcelona - Ciutadella,Good,2.1874,41.3864,6h,Good,46,6h,Good,13,NA,NA,NA,15-11-2018 07:00,1542261901
+Barcelona - Vall Hebron,Good,2.148,41.4261,6h,Good,66,6h,Good,9,6h,Good,26,15-11-2018 07:00,1542261901
+Barcelona - Palau Reial,Good,2.1151,41.3875,6h,Good,57,6h,Good,3,6h,Good,24,15-11-2018 07:00,1542261901
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,6h,Good,13,6h,Good,27,15-11-2018 07:00,1542261901
+Barcelona - Observ Fabra,Good,2.1239,41.4183,6h,Good,85,6h,Good,2,6h,Good,17,15-11-2018 07:00,1542261901
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,7h,Good,14,NA,NA,NA,15-11-2018 08:00,1542265502
+Barcelona - Eixample,Good,2.1538,41.3853,7h,Good,26,7h,Good,41,7h,Good,31,15-11-2018 08:00,1542265502
+Barcelona - Gràcia,Good,2.1534,41.3987,7h,Good,40,7h,Good,22,NA,NA,NA,15-11-2018 08:00,1542265502
+Barcelona - Ciutadella,Good,2.1874,41.3864,7h,Good,31,7h,Good,24,NA,NA,NA,15-11-2018 08:00,1542265502
+Barcelona - Vall Hebron,Good,2.148,41.4261,7h,Good,48,7h,Good,17,7h,Good,25,15-11-2018 08:00,1542265502
+Barcelona - Palau Reial,Good,2.1151,41.3875,7h,Good,52,7h,Good,8,7h,Good,23,15-11-2018 08:00,1542265502
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,7h,Good,29,7h,Good,27,15-11-2018 08:00,1542265502
+Barcelona - Observ Fabra,Good,2.1239,41.4183,7h,Good,76,7h,Good,4,7h,Good,17,15-11-2018 08:00,1542265502
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,8h,Good,38,NA,NA,NA,15-11-2018 09:00,1542269102
+Barcelona - Eixample,Good,2.1538,41.3853,8h,Good,4,8h,Good,76,8h,Good,31,15-11-2018 09:00,1542269102
+Barcelona - Gràcia,Good,2.1534,41.3987,8h,Good,20,8h,Good,47,NA,NA,NA,15-11-2018 09:00,1542269102
+Barcelona - Ciutadella,Good,2.1874,41.3864,8h,Good,19,8h,Good,44,NA,NA,NA,15-11-2018 09:00,1542269102
+Barcelona - Vall Hebron,Good,2.148,41.4261,8h,Good,23,8h,Good,41,8h,Good,26,15-11-2018 09:00,1542269102
+Barcelona - Palau Reial,Good,2.1151,41.3875,8h,Good,27,8h,Good,30,8h,Good,23,15-11-2018 09:00,1542269102
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,8h,Good,49,8h,Good,26,15-11-2018 09:00,1542269102
+Barcelona - Observ Fabra,Good,2.1239,41.4183,8h,Good,65,8h,Good,10,8h,Good,16,15-11-2018 09:00,1542269102
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,9h,Good,59,NA,NA,NA,15-11-2018 10:00,1542272702
+Barcelona - Eixample,Good,2.1538,41.3853,9h,Good,4,9h,Good,88,9h,Good,30,15-11-2018 10:00,1542272702
+Barcelona - Gràcia,Good,2.1534,41.3987,9h,Good,7,9h,Good,68,NA,NA,NA,15-11-2018 10:00,1542272702
+Barcelona - Ciutadella,Good,2.1874,41.3864,9h,Good,18,9h,Good,48,NA,NA,NA,15-11-2018 10:00,1542272702
+Barcelona - Vall Hebron,Good,2.148,41.4261,9h,Good,14,9h,Good,51,9h,Good,25,15-11-2018 10:00,1542272702
+Barcelona - Palau Reial,Good,2.1151,41.3875,9h,Good,12,9h,Good,54,9h,Good,23,15-11-2018 10:00,1542272702
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,9h,Good,45,9h,Good,25,15-11-2018 10:00,1542272702
+Barcelona - Observ Fabra,Good,2.1239,41.4183,9h,Good,56,9h,Good,19,9h,Good,15,15-11-2018 10:00,1542272702
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,10h,Good,35,NA,NA,NA,15-11-2018 11:00,1542276302
+Barcelona - Eixample,Good,2.1538,41.3853,10h,Good,18,10h,Good,74,10h,Good,30,15-11-2018 11:00,1542276302
+Barcelona - Gràcia,Good,2.1534,41.3987,10h,Good,32,10h,Good,49,NA,NA,NA,15-11-2018 11:00,1542276302
+Barcelona - Ciutadella,Good,2.1874,41.3864,10h,Good,47,10h,Good,21,NA,NA,NA,15-11-2018 11:00,1542276302
+Barcelona - Vall Hebron,Good,2.148,41.4261,10h,Good,34,10h,Good,43,10h,Good,24,15-11-2018 11:00,1542276302
+Barcelona - Palau Reial,Good,2.1151,41.3875,10h,Good,26,10h,Good,44,10h,Good,23,15-11-2018 11:00,1542276302
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,10h,Good,23,10h,Good,24,15-11-2018 11:00,1542276302
+Barcelona - Observ Fabra,Good,2.1239,41.4183,10h,Good,65,10h,Good,17,10h,Good,14,15-11-2018 11:00,1542276302
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,11h,Good,34,NA,NA,NA,15-11-2018 12:00,1542279902
+Barcelona - Eixample,Good,2.1538,41.3853,11h,Good,20,11h,Good,72,11h,Good,30,15-11-2018 12:00,1542279902
+Barcelona - Gràcia,Good,2.1534,41.3987,11h,Good,45,11h,Good,35,NA,NA,NA,15-11-2018 12:00,1542279902
+Barcelona - Ciutadella,Good,2.1874,41.3864,11h,Good,51,11h,Good,16,NA,NA,NA,15-11-2018 12:00,1542279902
+Barcelona - Vall Hebron,Good,2.148,41.4261,11h,Good,50,11h,Good,29,11h,Good,23,15-11-2018 12:00,1542279902
+Barcelona - Palau Reial,Good,2.1151,41.3875,11h,Good,40,11h,Good,29,11h,Good,22,15-11-2018 12:00,1542279902
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,11h,Good,18,11h,Good,23,15-11-2018 12:00,1542279902
+Barcelona - Observ Fabra,Good,2.1239,41.4183,11h,Good,69,11h,Good,14,11h,Good,13,15-11-2018 12:00,1542279902
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,12h,Good,25,NA,NA,NA,15-11-2018 12:00,1542283502
+Barcelona - Eixample,Good,2.1538,41.3853,12h,Good,28,12h,Good,60,12h,Good,29,15-11-2018 12:00,1542283502
+Barcelona - Gràcia,Good,2.1534,41.3987,12h,Good,43,12h,Good,40,NA,NA,NA,15-11-2018 12:00,1542283502
+Barcelona - Ciutadella,Good,2.1874,41.3864,12h,Good,57,12h,Good,12,NA,NA,NA,15-11-2018 12:00,1542283502
+Barcelona - Vall Hebron,Good,2.148,41.4261,12h,Good,57,12h,Good,21,12h,Good,23,15-11-2018 12:00,1542283502
+Barcelona - Palau Reial,Good,2.1151,41.3875,12h,Good,43,12h,Good,26,12h,Good,22,15-11-2018 12:00,1542283502
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,12h,Good,13,12h,Good,22,15-11-2018 12:00,1542283502
+Barcelona - Observ Fabra,Good,2.1239,41.4183,12h,Good,70,12h,Good,13,12h,Good,12,15-11-2018 12:00,1542283502
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,13h,Good,23,NA,NA,NA,15-11-2018 14:00,1542287102
+Barcelona - Eixample,Good,2.1538,41.3853,13h,Good,35,13h,Good,52,13h,Good,29,15-11-2018 14:00,1542287102
+Barcelona - Gràcia,Good,2.1534,41.3987,13h,Good,52,13h,Good,32,NA,NA,NA,15-11-2018 14:00,1542287102
+Barcelona - Ciutadella,Good,2.1874,41.3864,13h,Good,50,13h,Good,19,NA,NA,NA,15-11-2018 14:00,1542287102
+Barcelona - Vall Hebron,Good,2.148,41.4261,13h,Good,57,13h,Good,20,13h,Good,23,15-11-2018 14:00,1542287102
+Barcelona - Palau Reial,Good,2.1151,41.3875,13h,Good,48,13h,Good,20,13h,Good,22,15-11-2018 14:00,1542287102
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,13h,Good,10,13h,Good,22,15-11-2018 14:00,1542287102
+Barcelona - Observ Fabra,Good,2.1239,41.4183,13h,Good,72,13h,Good,11,13h,Good,12,15-11-2018 14:00,1542287102
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,14h,Good,19,NA,NA,NA,15-11-2018 14:00,1542290701
+Barcelona - Eixample,Good,2.1538,41.3853,14h,Good,36,14h,Good,49,14h,Good,29,15-11-2018 14:00,1542290701
+Barcelona - Gràcia,Good,2.1534,41.3987,13h,Good,52,13h,Good,32,NA,NA,NA,15-11-2018 14:00,1542290701
+Barcelona - Ciutadella,Good,2.1874,41.3864,14h,Good,51,14h,Good,16,NA,NA,NA,15-11-2018 14:00,1542290701
+Barcelona - Vall Hebron,Good,2.148,41.4261,14h,Good,62,14h,Good,17,14h,Good,23,15-11-2018 14:00,1542290701
+Barcelona - Palau Reial,Good,2.1151,41.3875,14h,Good,51,14h,Good,14,14h,Good,22,15-11-2018 14:00,1542290701
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,13h,Good,10,14h,Good,22,15-11-2018 14:00,1542290701
+Barcelona - Observ Fabra,Good,2.1239,41.4183,14h,Good,71,14h,Good,11,14h,Good,12,15-11-2018 14:00,1542290701
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,15h,Good,27,NA,NA,NA,15-11-2018 16:00,1542294301
+Barcelona - Eixample,Good,2.1538,41.3853,14h,Good,36,14h,Good,49,15h,Good,29,15-11-2018 16:00,1542294301
+Barcelona - Gràcia,Good,2.1534,41.3987,13h,Good,52,13h,Good,32,NA,NA,NA,15-11-2018 16:00,1542294301
+Barcelona - Ciutadella,Good,2.1874,41.3864,15h,Good,52,15h,Good,15,NA,NA,NA,15-11-2018 16:00,1542294301
+Barcelona - Vall Hebron,Good,2.148,41.4261,15h,Good,49,15h,Good,24,15h,Good,22,15-11-2018 16:00,1542294301
+Barcelona - Palau Reial,Good,2.1151,41.3875,15h,Good,45,15h,Good,18,15h,Good,22,15-11-2018 16:00,1542294301
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,15h,Good,14,15h,Good,22,15-11-2018 16:00,1542294301
+Barcelona - Observ Fabra,Good,2.1239,41.4183,15h,Good,64,15h,Good,13,15h,Good,12,15-11-2018 16:00,1542294301
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,16h,Good,34,NA,NA,NA,15-11-2018 17:00,1542297902
+Barcelona - Eixample,Good,2.1538,41.3853,16h,Good,22,16h,Good,61,16h,Good,29,15-11-2018 17:00,1542297902
+Barcelona - Gràcia,--,2.1534,41.3987,14h,--,NA,14h,--,NA,NA,NA,NA,15-11-2018 17:00,1542297902
+Barcelona - Ciutadella,Good,2.1874,41.3864,16h,Good,41,16h,Good,28,NA,NA,NA,15-11-2018 17:00,1542297902
+Barcelona - Vall Hebron,Good,2.148,41.4261,16h,Good,40,16h,Good,31,16h,Good,22,15-11-2018 17:00,1542297902
+Barcelona - Palau Reial,Good,2.1151,41.3875,16h,Good,32,16h,Good,28,16h,Good,22,15-11-2018 17:00,1542297902
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,16h,Good,43,16h,Good,22,15-11-2018 17:00,1542297902
+Barcelona - Observ Fabra,Good,2.1239,41.4183,16h,Good,72,16h,Good,9,16h,Good,11,15-11-2018 17:00,1542297902
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,17h,Good,40,NA,NA,NA,15-11-2018 18:00,1542301502
+Barcelona - Eixample,Good,2.1538,41.3853,17h,Good,8,17h,Good,80,17h,Good,29,15-11-2018 18:00,1542301502
+Barcelona - Gràcia,--,2.1534,41.3987,15h,--,NA,15h,--,NA,NA,NA,NA,15-11-2018 18:00,1542301502
+Barcelona - Ciutadella,Good,2.1874,41.3864,17h,Good,19,17h,Good,56,NA,NA,NA,15-11-2018 18:00,1542301502
+Barcelona - Vall Hebron,Good,2.148,41.4261,17h,Good,30,17h,Good,41,17h,Good,21,15-11-2018 18:00,1542301502
+Barcelona - Palau Reial,Good,2.1151,41.3875,17h,Good,30,17h,Good,32,17h,Good,21,15-11-2018 18:00,1542301502
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,17h,Good,66,17h,Good,21,15-11-2018 18:00,1542301502
+Barcelona - Observ Fabra,Good,2.1239,41.4183,16h,Good,72,16h,Good,9,17h,Good,10,15-11-2018 18:00,1542301502
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,18h,Good,52,NA,NA,NA,15-11-2018 18:00,1542305101
+Barcelona - Eixample,Good,2.1538,41.3853,18h,Good,8,18h,Good,85,18h,Good,28,15-11-2018 18:00,1542305101
+Barcelona - Gràcia,Good,2.1534,41.3987,18h,Good,17,18h,Good,72,NA,NA,NA,15-11-2018 18:00,1542305101
+Barcelona - Ciutadella,Good,2.1874,41.3864,18h,Good,49,18h,Good,26,NA,NA,NA,15-11-2018 18:00,1542305101
+Barcelona - Vall Hebron,Good,2.148,41.4261,18h,Good,12,18h,Good,60,18h,Good,20,15-11-2018 18:00,1542305101
+Barcelona - Palau Reial,Good,2.1151,41.3875,18h,Good,18,18h,Good,53,18h,Good,20,15-11-2018 18:00,1542305101
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,18h,Good,45,18h,Good,21,15-11-2018 18:00,1542305101
+Barcelona - Observ Fabra,Good,2.1239,41.4183,16h,Good,72,16h,Good,9,18h,Good,10,15-11-2018 18:00,1542305101
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,19h,Good,79,NA,NA,NA,15-11-2018 20:00,1542308702
+Barcelona - Eixample,Moderate,2.1538,41.3853,19h,Good,1,19h,Moderate,101,19h,Good,27,15-11-2018 20:00,1542308702
+Barcelona - Gràcia,Moderate,2.1534,41.3987,19h,Good,3,19h,Moderate,94,NA,NA,NA,15-11-2018 20:00,1542308702
+Barcelona - Ciutadella,Good,2.1874,41.3864,19h,Good,14,19h,Good,62,NA,NA,NA,15-11-2018 20:00,1542308702
+Barcelona - Vall Hebron,Good,2.148,41.4261,19h,Good,18,19h,Good,56,19h,Good,18,15-11-2018 20:00,1542308702
+Barcelona - Palau Reial,Good,2.1151,41.3875,19h,Good,5,19h,Good,67,19h,Good,20,15-11-2018 20:00,1542308702
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,19h,Good,58,19h,Good,20,15-11-2018 20:00,1542308702
+Barcelona - Observ Fabra,Good,2.1239,41.4183,17h,--,NA,17h,--,NA,19h,Good,9,15-11-2018 20:00,1542308702
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,20h,Good,71,NA,NA,NA,15-11-2018 21:00,1542312301
+Barcelona - Eixample,Moderate,2.1538,41.3853,19h,Good,1,19h,Moderate,101,20h,Good,27,15-11-2018 21:00,1542312301
+Barcelona - Gràcia,Good,2.1534,41.3987,20h,Good,4,20h,Good,83,NA,NA,NA,15-11-2018 21:00,1542312301
+Barcelona - Ciutadella,Good,2.1874,41.3864,20h,Good,26,20h,Good,42,NA,NA,NA,15-11-2018 21:00,1542312301
+Barcelona - Vall Hebron,Good,2.148,41.4261,20h,Good,21,20h,Good,52,20h,Good,18,15-11-2018 21:00,1542312301
+Barcelona - Palau Reial,Good,2.1151,41.3875,20h,Good,3,20h,Good,72,20h,Good,19,15-11-2018 21:00,1542312301
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,20h,Good,51,20h,Good,20,15-11-2018 21:00,1542312301
+Barcelona - Observ Fabra,Good,2.1239,41.4183,18h,--,NA,18h,--,NA,20h,Good,9,15-11-2018 21:00,1542312301
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,21h,Good,54,NA,NA,NA,15-11-2018 22:00,1542315901
+Barcelona - Eixample,Moderate,2.1538,41.3853,19h,Good,1,19h,Moderate,101,21h,Good,26,15-11-2018 22:00,1542315901
+Barcelona - Gràcia,Good,2.1534,41.3987,21h,Good,13,21h,Good,70,NA,NA,NA,15-11-2018 22:00,1542315901
+Barcelona - Ciutadella,Good,2.1874,41.3864,21h,Good,5,21h,Good,70,NA,NA,NA,15-11-2018 22:00,1542315901
+Barcelona - Vall Hebron,Good,2.148,41.4261,21h,Good,21,21h,Good,50,21h,Good,16,15-11-2018 22:00,1542315901
+Barcelona - Palau Reial,Good,2.1151,41.3875,21h,Good,23,21h,Good,41,21h,Good,19,15-11-2018 22:00,1542315901
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,21h,Good,73,21h,Good,20,15-11-2018 22:00,1542315901
+Barcelona - Observ Fabra,Good,2.1239,41.4183,19h,--,NA,19h,--,NA,21h,Good,8,15-11-2018 22:00,1542315901
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,22h,Good,54,NA,NA,NA,15-11-2018 23:00,1542319502
+Barcelona - Eixample,Good,2.1538,41.3853,20h,--,NA,20h,--,NA,22h,Good,25,15-11-2018 23:00,1542319502
+Barcelona - Gràcia,Good,2.1534,41.3987,22h,Good,26,22h,Good,48,NA,NA,NA,15-11-2018 23:00,1542319502
+Barcelona - Ciutadella,Good,2.1874,41.3864,22h,Good,30,22h,Good,38,NA,NA,NA,15-11-2018 23:00,1542319502
+Barcelona - Vall Hebron,Good,2.148,41.4261,22h,Good,22,22h,Good,52,22h,Good,16,15-11-2018 23:00,1542319502
+Barcelona - Palau Reial,Good,2.1151,41.3875,22h,Good,26,22h,Good,39,22h,Good,18,15-11-2018 23:00,1542319502
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,22h,Good,40,22h,Good,19,15-11-2018 23:00,1542319502
+Barcelona - Observ Fabra,Good,2.1239,41.4183,20h,--,NA,20h,--,NA,22h,Good,8,15-11-2018 23:00,1542319502
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,23h,Good,29,NA,NA,NA,16-11-2018 00:00,1542323102
+Barcelona - Eixample,Good,2.1538,41.3853,NA,NA,NA,NA,NA,NA,23h,Good,25,16-11-2018 00:00,1542323102
+Barcelona - Gràcia,Good,2.1534,41.3987,23h,Good,37,23h,Good,33,NA,NA,NA,16-11-2018 00:00,1542323102
+Barcelona - Ciutadella,Good,2.1874,41.3864,23h,Good,41,23h,Good,24,NA,NA,NA,16-11-2018 00:00,1542323102
+Barcelona - Vall Hebron,Good,2.148,41.4261,23h,Good,43,23h,Good,29,23h,Good,15,16-11-2018 00:00,1542323102
+Barcelona - Palau Reial,Good,2.1151,41.3875,23h,Good,37,23h,Good,22,23h,Good,17,16-11-2018 00:00,1542323102
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,23h,Good,25,23h,Good,18,16-11-2018 00:00,1542323102
+Barcelona - Observ Fabra,Good,2.1239,41.4183,NA,NA,NA,NA,NA,NA,22h,Good,8,16-11-2018 00:00,1542323102
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,0h,Good,38,NA,NA,NA,16-11-2018 01:00,1542326702
+Barcelona - Eixample,Good,2.1538,41.3853,0h,Good,8,0h,Good,61,0h,Good,24,16-11-2018 01:00,1542326702
+Barcelona - Gràcia,Good,2.1534,41.3987,0h,Good,9,0h,Good,64,NA,NA,NA,16-11-2018 01:00,1542326702
+Barcelona - Ciutadella,Good,2.1874,41.3864,0h,Good,19,0h,Good,43,NA,NA,NA,16-11-2018 01:00,1542326702
+Barcelona - Vall Hebron,Good,2.148,41.4261,0h,Good,37,0h,Good,25,0h,Good,14,16-11-2018 01:00,1542326702
+Barcelona - Palau Reial,Good,2.1151,41.3875,0h,Good,16,0h,Good,36,0h,Good,17,16-11-2018 01:00,1542326702
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,0h,Good,40,0h,Good,18,16-11-2018 01:00,1542326702
+Barcelona - Observ Fabra,Good,2.1239,41.4183,0h,Good,72,0h,Good,9,22h,Good,8,16-11-2018 01:00,1542326702
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,1h,Good,50,NA,NA,NA,16-11-2018 02:00,1542330302
+Barcelona - Eixample,Good,2.1538,41.3853,1h,Good,8,1h,Good,57,1h,Good,23,16-11-2018 02:00,1542330302
+Barcelona - Gràcia,Good,2.1534,41.3987,0h,Good,9,0h,Good,64,NA,NA,NA,16-11-2018 02:00,1542330302
+Barcelona - Ciutadella,Good,2.1874,41.3864,1h,Good,14,1h,Good,41,NA,NA,NA,16-11-2018 02:00,1542330302
+Barcelona - Vall Hebron,Good,2.148,41.4261,1h,Good,14,1h,Good,45,1h,Good,13,16-11-2018 02:00,1542330302
+Barcelona - Palau Reial,Good,2.1151,41.3875,1h,Good,13,1h,Good,39,1h,Good,16,16-11-2018 02:00,1542330302
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,1h,Good,39,1h,Good,17,16-11-2018 02:00,1542330302
+Barcelona - Observ Fabra,--,2.1239,41.4183,23h,--,NA,23h,--,NA,23h,--,NA,16-11-2018 02:00,1542330302
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,2h,Good,30,NA,NA,NA,16-11-2018 03:00,1542333902
+Barcelona - Eixample,Good,2.1538,41.3853,2h,Good,6,2h,Good,57,2h,Good,23,16-11-2018 03:00,1542333902
+Barcelona - Gràcia,Good,2.1534,41.3987,0h,Good,9,0h,Good,64,NA,NA,NA,16-11-2018 03:00,1542333902
+Barcelona - Ciutadella,Good,2.1874,41.3864,2h,Good,16,2h,Good,38,NA,NA,NA,16-11-2018 03:00,1542333902
+Barcelona - Vall Hebron,Good,2.148,41.4261,2h,Good,36,2h,Good,25,2h,Good,11,16-11-2018 03:00,1542333902
+Barcelona - Palau Reial,Good,2.1151,41.3875,2h,Good,35,2h,Good,12,2h,Good,15,16-11-2018 03:00,1542333902
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,2h,Good,29,2h,Good,17,16-11-2018 03:00,1542333902
+Barcelona - Observ Fabra,--,2.1239,41.4183,0h,--,NA,0h,--,NA,0h,--,NA,16-11-2018 03:00,1542333902
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,3h,Good,28,NA,NA,NA,16-11-2018 04:00,1542337501
+Barcelona - Eixample,Good,2.1538,41.3853,3h,Good,21,3h,Good,38,3h,Good,22,16-11-2018 04:00,1542337501
+Barcelona - Gràcia,--,2.1534,41.3987,1h,--,NA,1h,--,NA,NA,NA,NA,16-11-2018 04:00,1542337501
+Barcelona - Ciutadella,Good,2.1874,41.3864,3h,Good,34,3h,Good,23,NA,NA,NA,16-11-2018 04:00,1542337501
+Barcelona - Vall Hebron,Good,2.148,41.4261,3h,Good,53,3h,Good,9,3h,Good,12,16-11-2018 04:00,1542337501
+Barcelona - Palau Reial,Good,2.1151,41.3875,3h,Good,37,3h,Good,4,3h,Good,15,16-11-2018 04:00,1542337501
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,3h,Good,26,3h,Good,16,16-11-2018 04:00,1542337501
+Barcelona - Observ Fabra,--,2.1239,41.4183,1h,--,NA,1h,--,NA,1h,--,NA,16-11-2018 04:00,1542337501
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,4h,Good,24,NA,NA,NA,16-11-2018 05:00,1542341102
+Barcelona - Eixample,Good,2.1538,41.3853,4h,Good,17,4h,Good,39,4h,Good,22,16-11-2018 05:00,1542341102
+Barcelona - Gràcia,--,2.1534,41.3987,2h,--,NA,2h,--,NA,NA,NA,NA,16-11-2018 05:00,1542341102
+Barcelona - Ciutadella,Good,2.1874,41.3864,4h,Good,34,4h,Good,19,NA,NA,NA,16-11-2018 05:00,1542341102
+Barcelona - Vall Hebron,Good,2.148,41.4261,4h,Good,48,4h,Good,9,4h,Good,11,16-11-2018 05:00,1542341102
+Barcelona - Palau Reial,Good,2.1151,41.3875,4h,Good,29,4h,Good,6,4h,Good,14,16-11-2018 05:00,1542341102
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,4h,Good,19,4h,Good,16,16-11-2018 05:00,1542341102
+Barcelona - Observ Fabra,--,2.1239,41.4183,2h,--,NA,2h,--,NA,2h,--,NA,16-11-2018 05:00,1542341102
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,5h,Good,31,NA,NA,NA,16-11-2018 06:00,1542344702
+Barcelona - Eixample,Good,2.1538,41.3853,5h,Good,2,5h,Good,52,5h,Good,21,16-11-2018 06:00,1542344702
+Barcelona - Gràcia,--,2.1534,41.3987,4h,--,NA,4h,--,NA,NA,NA,NA,16-11-2018 06:00,1542344702
+Barcelona - Ciutadella,Good,2.1874,41.3864,5h,Good,26,5h,Good,17,NA,NA,NA,16-11-2018 06:00,1542344702
+Barcelona - Vall Hebron,Good,2.148,41.4261,5h,Good,41,5h,Good,11,5h,Good,10,16-11-2018 06:00,1542344702
+Barcelona - Palau Reial,Good,2.1151,41.3875,5h,Good,16,5h,Good,15,5h,Good,14,16-11-2018 06:00,1542344702
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,5h,Good,22,5h,Good,15,16-11-2018 06:00,1542344702
+Barcelona - Observ Fabra,--,2.1239,41.4183,3h,--,NA,3h,--,NA,3h,--,NA,16-11-2018 06:00,1542344702
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,6h,Good,26,NA,NA,NA,16-11-2018 07:00,1542348302
+Barcelona - Eixample,Good,2.1538,41.3853,6h,Good,8,6h,Good,40,6h,Good,21,16-11-2018 07:00,1542348302
+Barcelona - Gràcia,--,2.1534,41.3987,4h,--,NA,4h,--,NA,NA,NA,NA,16-11-2018 07:00,1542348302
+Barcelona - Ciutadella,Good,2.1874,41.3864,6h,Good,19,6h,Good,21,NA,NA,NA,16-11-2018 07:00,1542348302
+Barcelona - Vall Hebron,Good,2.148,41.4261,6h,Good,28,6h,Good,19,6h,Good,10,16-11-2018 07:00,1542348302
+Barcelona - Palau Reial,Good,2.1151,41.3875,6h,Good,13,6h,Good,19,6h,Good,14,16-11-2018 07:00,1542348302
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,6h,Good,35,6h,Good,15,16-11-2018 07:00,1542348302
+Barcelona - Observ Fabra,--,2.1239,41.4183,4h,--,NA,4h,--,NA,4h,--,NA,16-11-2018 07:00,1542348302
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,7h,Good,29,NA,NA,NA,16-11-2018 08:00,1542351902
+Barcelona - Eixample,Good,2.1538,41.3853,7h,Good,4,7h,Good,53,7h,Good,22,16-11-2018 08:00,1542351902
+Barcelona - Gràcia,Good,2.1534,41.3987,7h,Good,6,7h,Good,50,NA,NA,NA,16-11-2018 08:00,1542351902
+Barcelona - Ciutadella,Good,2.1874,41.3864,7h,Good,11,7h,Good,37,NA,NA,NA,16-11-2018 08:00,1542351902
+Barcelona - Vall Hebron,Good,2.148,41.4261,7h,Good,24,7h,Good,27,7h,Good,12,16-11-2018 08:00,1542351902
+Barcelona - Palau Reial,Good,2.1151,41.3875,7h,Good,15,7h,Good,28,7h,Good,15,16-11-2018 08:00,1542351902
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,7h,Good,40,7h,Good,15,16-11-2018 08:00,1542351902
+Barcelona - Observ Fabra,--,2.1239,41.4183,5h,--,NA,5h,--,NA,5h,--,NA,16-11-2018 08:00,1542351902
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,8h,Good,51,NA,NA,NA,16-11-2018 09:00,1542355501
+Barcelona - Eixample,Good,2.1538,41.3853,8h,Good,2,8h,Good,80,8h,Good,22,16-11-2018 09:00,1542355501
+Barcelona - Gràcia,Good,2.1534,41.3987,8h,Good,3,8h,Good,69,NA,NA,NA,16-11-2018 09:00,1542355501
+Barcelona - Ciutadella,Good,2.1874,41.3864,8h,Good,6,8h,Good,47,NA,NA,NA,16-11-2018 09:00,1542355501
+Barcelona - Vall Hebron,Good,2.148,41.4261,8h,Good,18,8h,Good,39,8h,Good,11,16-11-2018 09:00,1542355501
+Barcelona - Palau Reial,Good,2.1151,41.3875,8h,Good,19,8h,Good,29,8h,Good,14,16-11-2018 09:00,1542355501
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,8h,Good,48,8h,Good,15,16-11-2018 09:00,1542355501
+Barcelona - Observ Fabra,--,2.1239,41.4183,6h,--,NA,6h,--,NA,6h,--,NA,16-11-2018 09:00,1542355501
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,9h,Good,57,NA,NA,NA,16-11-2018 10:00,1542359101
+Barcelona - Eixample,Good,2.1538,41.3853,9h,Good,2,9h,Good,81,9h,Good,22,16-11-2018 10:00,1542359101
+Barcelona - Gràcia,Good,2.1534,41.3987,9h,Good,3,9h,Good,73,NA,NA,NA,16-11-2018 10:00,1542359101
+Barcelona - Ciutadella,Good,2.1874,41.3864,9h,Good,7,9h,Good,51,NA,NA,NA,16-11-2018 10:00,1542359101
+Barcelona - Vall Hebron,Good,2.148,41.4261,9h,Good,17,9h,Good,42,9h,Good,11,16-11-2018 10:00,1542359101
+Barcelona - Palau Reial,Good,2.1151,41.3875,8h,Good,19,8h,Good,29,9h,Good,14,16-11-2018 10:00,1542359101
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,9h,Good,52,9h,Good,14,16-11-2018 10:00,1542359101
+Barcelona - Observ Fabra,Good,2.1239,41.4183,9h,Good,74,9h,Good,1,7h,--,NA,16-11-2018 10:00,1542359101
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,10h,Good,53,NA,NA,NA,16-11-2018 11:00,1542362701
+Barcelona - Eixample,Good,2.1538,41.3853,10h,Good,4,10h,Good,81,10h,Good,21,16-11-2018 11:00,1542362701
+Barcelona - Gràcia,Good,2.1534,41.3987,10h,Good,6,10h,Good,63,NA,NA,NA,16-11-2018 11:00,1542362701
+Barcelona - Ciutadella,Good,2.1874,41.3864,10h,Good,4,10h,Good,57,NA,NA,NA,16-11-2018 11:00,1542362701
+Barcelona - Vall Hebron,Good,2.148,41.4261,10h,Good,18,10h,Good,34,10h,Good,11,16-11-2018 11:00,1542362701
+Barcelona - Palau Reial,Good,2.1151,41.3875,10h,Good,3,10h,Good,52,10h,Good,14,16-11-2018 11:00,1542362701
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,10h,Good,52,10h,Good,14,16-11-2018 11:00,1542362701
+Barcelona - Observ Fabra,Good,2.1239,41.4183,10h,Good,72,10h,Good,2,8h,--,NA,16-11-2018 11:00,1542362701
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,11h,Good,48,NA,NA,NA,16-11-2018 12:00,1542366302
+Barcelona - Eixample,Good,2.1538,41.3853,11h,Good,6,11h,Good,74,11h,Good,21,16-11-2018 12:00,1542366302
+Barcelona - Gràcia,Good,2.1534,41.3987,11h,Good,9,11h,Good,63,NA,NA,NA,16-11-2018 12:00,1542366302
+Barcelona - Ciutadella,Good,2.1874,41.3864,11h,Good,8,11h,Good,54,NA,NA,NA,16-11-2018 12:00,1542366302
+Barcelona - Vall Hebron,Good,2.148,41.4261,11h,Good,27,11h,Good,27,11h,Good,12,16-11-2018 12:00,1542366302
+Barcelona - Palau Reial,Good,2.1151,41.3875,11h,Good,11,11h,Good,44,11h,Good,14,16-11-2018 12:00,1542366302
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,11h,Good,54,11h,Good,14,16-11-2018 12:00,1542366302
+Barcelona - Observ Fabra,Good,2.1239,41.4183,11h,Good,69,11h,Good,3,9h,--,NA,16-11-2018 12:00,1542366302
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,12h,Good,39,NA,NA,NA,16-11-2018 13:00,1542369902
+Barcelona - Eixample,Good,2.1538,41.3853,11h,Good,6,11h,Good,74,12h,Good,21,16-11-2018 13:00,1542369902
+Barcelona - Gràcia,Good,2.1534,41.3987,12h,Good,9,12h,Good,67,NA,NA,NA,16-11-2018 13:00,1542369902
+Barcelona - Ciutadella,Good,2.1874,41.3864,11h,Good,8,11h,Good,54,NA,NA,NA,16-11-2018 13:00,1542369902
+Barcelona - Vall Hebron,Good,2.148,41.4261,12h,Good,20,12h,Good,35,12h,Good,12,16-11-2018 13:00,1542369902
+Barcelona - Palau Reial,Good,2.1151,41.3875,11h,Good,11,11h,Good,44,12h,Good,13,16-11-2018 13:00,1542369902
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,12h,Good,54,12h,Good,14,16-11-2018 13:00,1542369902
+Barcelona - Observ Fabra,Good,2.1239,41.4183,12h,Good,59,12h,Good,8,10h,--,NA,16-11-2018 13:00,1542369902
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,13h,Good,44,NA,NA,NA,16-11-2018 14:00,1542373501
+Barcelona - Eixample,Good,2.1538,41.3853,11h,Good,6,11h,Good,74,13h,Good,20,16-11-2018 14:00,1542373501
+Barcelona - Gràcia,Good,2.1534,41.3987,12h,Good,9,12h,Good,67,NA,NA,NA,16-11-2018 14:00,1542373501
+Barcelona - Ciutadella,Good,2.1874,41.3864,11h,Good,8,11h,Good,54,NA,NA,NA,16-11-2018 14:00,1542373501
+Barcelona - Vall Hebron,Good,2.148,41.4261,12h,Good,20,12h,Good,35,13h,Good,11,16-11-2018 14:00,1542373501
+Barcelona - Palau Reial,Good,2.1151,41.3875,13h,Good,23,13h,Good,31,13h,Good,13,16-11-2018 14:00,1542373501
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,13h,Good,56,13h,Good,15,16-11-2018 14:00,1542373501
+Barcelona - Observ Fabra,Good,2.1239,41.4183,13h,Good,47,13h,Good,17,11h,--,NA,16-11-2018 14:00,1542373501
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,13h,Good,44,NA,NA,NA,16-11-2018 15:00,1542377102
+Barcelona - Eixample,Good,2.1538,41.3853,12h,--,NA,12h,--,NA,14h,Good,20,16-11-2018 15:00,1542377102
+Barcelona - Gràcia,Good,2.1534,41.3987,12h,Good,9,12h,Good,67,NA,NA,NA,16-11-2018 15:00,1542377102
+Barcelona - Ciutadella,--,2.1874,41.3864,12h,--,NA,12h,--,NA,NA,NA,NA,16-11-2018 15:00,1542377102
+Barcelona - Vall Hebron,Good,2.148,41.4261,12h,Good,20,12h,Good,35,14h,Good,10,16-11-2018 15:00,1542377102
+Barcelona - Palau Reial,Good,2.1151,41.3875,14h,Good,12,14h,Good,47,14h,Good,13,16-11-2018 15:00,1542377102
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,14h,Good,65,14h,Good,15,16-11-2018 15:00,1542377102
+Barcelona - Observ Fabra,Good,2.1239,41.4183,14h,Good,44,14h,Good,27,12h,--,NA,16-11-2018 15:00,1542377102
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,13h,Good,44,NA,NA,NA,16-11-2018 16:00,1542380702
+Barcelona - Eixample,Good,2.1538,41.3853,15h,Good,5,15h,Good,88,15h,Good,21,16-11-2018 16:00,1542380702
+Barcelona - Gràcia,--,2.1534,41.3987,13h,--,NA,13h,--,NA,NA,NA,NA,16-11-2018 16:00,1542380702
+Barcelona - Ciutadella,Good,2.1874,41.3864,15h,Good,21,15h,Good,46,NA,NA,NA,16-11-2018 16:00,1542380702
+Barcelona - Vall Hebron,Good,2.148,41.4261,15h,Good,17,15h,Good,59,15h,Good,10,16-11-2018 16:00,1542380702
+Barcelona - Palau Reial,Good,2.1151,41.3875,15h,Good,16,15h,Good,50,15h,Good,12,16-11-2018 16:00,1542380702
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,15h,Good,41,15h,Good,15,16-11-2018 16:00,1542380702
+Barcelona - Observ Fabra,Good,2.1239,41.4183,15h,Good,56,15h,Good,24,13h,--,NA,16-11-2018 16:00,1542380702
+Barcelona - Sants,--,2.1331,41.3788,NA,NA,NA,14h,--,NA,NA,NA,NA,16-11-2018 17:00,1542384301
+Barcelona - Eixample,Good,2.1538,41.3853,16h,Good,14,16h,Good,84,16h,Good,22,16-11-2018 17:00,1542384301
+Barcelona - Gràcia,--,2.1534,41.3987,14h,--,NA,14h,--,NA,NA,NA,NA,16-11-2018 17:00,1542384301
+Barcelona - Ciutadella,Good,2.1874,41.3864,16h,Good,43,16h,Good,23,NA,NA,NA,16-11-2018 17:00,1542384301
+Barcelona - Vall Hebron,Good,2.148,41.4261,16h,Good,35,16h,Good,44,16h,Good,11,16-11-2018 17:00,1542384301
+Barcelona - Palau Reial,Good,2.1151,41.3875,16h,Good,29,16h,Good,42,16h,Good,13,16-11-2018 17:00,1542384301
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,16h,Good,21,16h,Good,15,16-11-2018 17:00,1542384301
+Barcelona - Observ Fabra,Good,2.1239,41.4183,16h,Good,57,16h,Good,25,14h,--,NA,16-11-2018 17:00,1542384301
+Barcelona - Sants,--,2.1331,41.3788,NA,NA,NA,15h,--,NA,NA,NA,NA,16-11-2018 18:00,1542387903
+Barcelona - Eixample,Good,2.1538,41.3853,17h,Good,20,17h,Good,73,17h,Good,22,16-11-2018 18:00,1542387903
+Barcelona - Gràcia,--,2.1534,41.3987,15h,--,NA,15h,--,NA,NA,NA,NA,16-11-2018 18:00,1542387903
+Barcelona - Ciutadella,Good,2.1874,41.3864,17h,Good,43,17h,Good,25,NA,NA,NA,16-11-2018 18:00,1542387903
+Barcelona - Vall Hebron,Good,2.148,41.4261,17h,Good,40,17h,Good,40,17h,Good,12,16-11-2018 18:00,1542387903
+Barcelona - Palau Reial,Good,2.1151,41.3875,17h,Good,35,17h,Good,35,17h,Good,13,16-11-2018 18:00,1542387903
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,17h,Good,25,17h,Good,15,16-11-2018 18:00,1542387903
+Barcelona - Observ Fabra,Good,2.1239,41.4183,17h,Good,54,17h,Good,28,15h,--,NA,16-11-2018 18:00,1542387903
+Barcelona - Sants,--,2.1331,41.3788,NA,NA,NA,16h,--,NA,NA,NA,NA,16-11-2018 19:00,1542391502
+Barcelona - Eixample,Good,2.1538,41.3853,18h,Good,13,18h,Good,85,18h,Good,23,16-11-2018 19:00,1542391502
+Barcelona - Gràcia,Good,2.1534,41.3987,18h,Good,26,18h,Good,61,NA,NA,NA,16-11-2018 19:00,1542391502
+Barcelona - Ciutadella,Good,2.1874,41.3864,18h,Good,43,18h,Good,26,NA,NA,NA,16-11-2018 19:00,1542391502
+Barcelona - Vall Hebron,Good,2.148,41.4261,18h,Good,35,18h,Good,46,18h,Good,13,16-11-2018 19:00,1542391502
+Barcelona - Palau Reial,Good,2.1151,41.3875,18h,Good,24,18h,Good,48,18h,Good,14,16-11-2018 19:00,1542391502
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,18h,Good,30,18h,Good,16,16-11-2018 19:00,1542391502
+Barcelona - Observ Fabra,Good,2.1239,41.4183,18h,Good,65,18h,Good,19,16h,--,NA,16-11-2018 19:00,1542391502
+Barcelona - Sants,--,2.1331,41.3788,NA,NA,NA,17h,--,NA,NA,NA,NA,16-11-2018 20:00,1542395102
+Barcelona - Eixample,Good,2.1538,41.3853,19h,Good,13,19h,Good,84,19h,Good,23,16-11-2018 20:00,1542395102
+Barcelona - Gràcia,Good,2.1534,41.3987,19h,Good,25,19h,Good,60,NA,NA,NA,16-11-2018 20:00,1542395102
+Barcelona - Ciutadella,Good,2.1874,41.3864,19h,Good,40,19h,Good,29,NA,NA,NA,16-11-2018 20:00,1542395102
+Barcelona - Vall Hebron,Good,2.148,41.4261,19h,Good,16,19h,Good,65,19h,Good,14,16-11-2018 20:00,1542395102
+Barcelona - Palau Reial,Good,2.1151,41.3875,19h,Good,20,19h,Good,52,19h,Good,14,16-11-2018 20:00,1542395102
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,19h,Good,44,19h,Good,15,16-11-2018 20:00,1542395102
+Barcelona - Observ Fabra,Good,2.1239,41.4183,19h,Good,48,19h,Good,32,17h,--,NA,16-11-2018 20:00,1542395102
+Barcelona - Sants,--,2.1331,41.3788,NA,NA,NA,18h,--,NA,NA,NA,NA,16-11-2018 21:00,1542398702
+Barcelona - Eixample,Good,2.1538,41.3853,20h,Good,8,20h,Good,80,20h,Good,23,16-11-2018 21:00,1542398702
+Barcelona - Gràcia,Good,2.1534,41.3987,20h,Good,12,20h,Good,72,NA,NA,NA,16-11-2018 21:00,1542398702
+Barcelona - Ciutadella,Good,2.1874,41.3864,20h,Good,36,20h,Good,30,NA,NA,NA,16-11-2018 21:00,1542398702
+Barcelona - Vall Hebron,Good,2.148,41.4261,20h,Good,10,20h,Good,69,20h,Good,15,16-11-2018 21:00,1542398702
+Barcelona - Palau Reial,Good,2.1151,41.3875,20h,Good,11,20h,Good,61,20h,Good,14,16-11-2018 21:00,1542398702
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,20h,Good,40,20h,Good,15,16-11-2018 21:00,1542398702
+Barcelona - Observ Fabra,Good,2.1239,41.4183,20h,Good,50,20h,Good,29,19h,--,NA,16-11-2018 21:00,1542398702
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,21h,Good,60,NA,NA,NA,16-11-2018 22:00,1542402301
+Barcelona - Eixample,Good,2.1538,41.3853,21h,Good,4,21h,Good,85,21h,Good,24,16-11-2018 22:00,1542402301
+Barcelona - Gràcia,Good,2.1534,41.3987,21h,Good,13,21h,Good,70,NA,NA,NA,16-11-2018 22:00,1542402301
+Barcelona - Ciutadella,Good,2.1874,41.3864,21h,Good,24,21h,Good,44,NA,NA,NA,16-11-2018 22:00,1542402301
+Barcelona - Vall Hebron,Good,2.148,41.4261,21h,Good,16,21h,Good,63,21h,Good,16,16-11-2018 22:00,1542402301
+Barcelona - Palau Reial,Good,2.1151,41.3875,21h,Good,22,21h,Good,47,21h,Good,14,16-11-2018 22:00,1542402301
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,21h,Good,64,21h,Good,16,16-11-2018 22:00,1542402301
+Barcelona - Observ Fabra,Good,2.1239,41.4183,21h,Good,67,21h,Good,13,19h,--,NA,16-11-2018 22:00,1542402301
+Barcelona - Sants,--,2.1331,41.3788,NA,NA,NA,NA,NA,NA,NA,NA,NA,16-11-2018 23:00,1542405902
+Barcelona - Eixample,Good,2.1538,41.3853,21h,Good,4,21h,Good,85,22h,Good,24,16-11-2018 23:00,1542405902
+Barcelona - Gràcia,Good,2.1534,41.3987,22h,Good,27,22h,Good,51,NA,NA,NA,16-11-2018 23:00,1542405902
+Barcelona - Ciutadella,Good,2.1874,41.3864,22h,Good,23,22h,Good,50,NA,NA,NA,16-11-2018 23:00,1542405902
+Barcelona - Vall Hebron,Good,2.148,41.4261,22h,Good,37,22h,Good,41,22h,Good,17,16-11-2018 23:00,1542405902
+Barcelona - Palau Reial,Good,2.1151,41.3875,22h,Good,36,22h,Good,32,22h,Good,15,16-11-2018 23:00,1542405902
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,22h,Good,54,22h,Good,17,16-11-2018 23:00,1542405902
+Barcelona - Observ Fabra,Good,2.1239,41.4183,22h,Good,69,22h,Good,14,NA,NA,NA,16-11-2018 23:00,1542405902
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,23h,Good,44,NA,NA,NA,17-11-2018 00:00,1542409502
+Barcelona - Eixample,Good,2.1538,41.3853,NA,NA,NA,NA,NA,NA,23h,Good,24,17-11-2018 00:00,1542409502
+Barcelona - Gràcia,Good,2.1534,41.3987,23h,Good,31,23h,Good,44,NA,NA,NA,17-11-2018 00:00,1542409502
+Barcelona - Ciutadella,Good,2.1874,41.3864,23h,Good,45,23h,Good,21,NA,NA,NA,17-11-2018 00:00,1542409502
+Barcelona - Vall Hebron,Good,2.148,41.4261,23h,Good,37,23h,Good,39,23h,Good,17,17-11-2018 00:00,1542409502
+Barcelona - Palau Reial,Good,2.1151,41.3875,23h,Good,38,23h,Good,28,23h,Good,15,17-11-2018 00:00,1542409502
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,23h,Good,30,23h,Good,17,17-11-2018 00:00,1542409502
+Barcelona - Observ Fabra,Good,2.1239,41.4183,23h,Good,67,23h,Good,15,NA,NA,NA,17-11-2018 00:00,1542409502
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,0h,Good,40,NA,NA,NA,17-11-2018 01:00,1542413101
+Barcelona - Eixample,Good,2.1538,41.3853,0h,Good,4,0h,Good,85,0h,Good,25,17-11-2018 01:00,1542413101
+Barcelona - Gràcia,Good,2.1534,41.3987,0h,Good,30,0h,Good,42,NA,NA,NA,17-11-2018 01:00,1542413101
+Barcelona - Ciutadella,Good,2.1874,41.3864,0h,Good,33,0h,Good,32,NA,NA,NA,17-11-2018 01:00,1542413101
+Barcelona - Vall Hebron,Good,2.148,41.4261,0h,Good,31,0h,Good,42,0h,Good,18,17-11-2018 01:00,1542413101
+Barcelona - Palau Reial,Good,2.1151,41.3875,0h,Good,40,0h,Good,24,0h,Good,16,17-11-2018 01:00,1542413101
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,0h,Good,56,0h,Good,18,17-11-2018 01:00,1542413101
+Barcelona - Observ Fabra,Good,2.1239,41.4183,0h,Good,70,0h,Good,12,NA,NA,NA,17-11-2018 01:00,1542413101
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,1h,Good,35,NA,NA,NA,17-11-2018 02:00,1542416702
+Barcelona - Eixample,Good,2.1538,41.3853,23h,--,NA,23h,--,NA,1h,Good,26,17-11-2018 02:00,1542416702
+Barcelona - Gràcia,Good,2.1534,41.3987,1h,Good,37,1h,Good,34,NA,NA,NA,17-11-2018 02:00,1542416702
+Barcelona - Ciutadella,Good,2.1874,41.3864,1h,Good,38,1h,Good,28,NA,NA,NA,17-11-2018 02:00,1542416702
+Barcelona - Vall Hebron,Good,2.148,41.4261,1h,Good,38,1h,Good,32,1h,Good,19,17-11-2018 02:00,1542416702
+Barcelona - Palau Reial,Good,2.1151,41.3875,1h,Good,43,1h,Good,20,1h,Good,16,17-11-2018 02:00,1542416702
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,1h,Good,28,1h,Good,19,17-11-2018 02:00,1542416702
+Barcelona - Observ Fabra,Good,2.1239,41.4183,1h,Good,70,1h,Good,11,NA,NA,NA,17-11-2018 02:00,1542416702
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,2h,Good,26,NA,NA,NA,17-11-2018 03:00,1542420302
+Barcelona - Eixample,Good,2.1538,41.3853,0h,--,NA,0h,--,NA,2h,Good,26,17-11-2018 03:00,1542420302
+Barcelona - Gràcia,Good,2.1534,41.3987,2h,Good,49,2h,Good,22,NA,NA,NA,17-11-2018 03:00,1542420302
+Barcelona - Ciutadella,Good,2.1874,41.3864,2h,Good,55,2h,Good,13,NA,NA,NA,17-11-2018 03:00,1542420302
+Barcelona - Vall Hebron,Good,2.148,41.4261,2h,Good,36,2h,Good,30,2h,Good,19,17-11-2018 03:00,1542420302
+Barcelona - Palau Reial,Good,2.1151,41.3875,2h,Good,45,2h,Good,18,2h,Good,17,17-11-2018 03:00,1542420302
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,2h,Good,14,2h,Good,19,17-11-2018 03:00,1542420302
+Barcelona - Observ Fabra,Good,2.1239,41.4183,2h,Good,63,2h,Good,15,2h,Good,17,17-11-2018 03:00,1542420302
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,3h,Good,24,NA,NA,NA,17-11-2018 04:00,1542423902
+Barcelona - Eixample,Good,2.1538,41.3853,3h,Good,30,3h,Good,37,3h,Good,28,17-11-2018 04:00,1542423902
+Barcelona - Gràcia,Good,2.1534,41.3987,3h,Good,38,3h,Good,25,NA,NA,NA,17-11-2018 04:00,1542423902
+Barcelona - Ciutadella,Good,2.1874,41.3864,3h,Good,50,3h,Good,17,NA,NA,NA,17-11-2018 04:00,1542423902
+Barcelona - Vall Hebron,Good,2.148,41.4261,3h,Good,32,3h,Good,29,3h,Good,19,17-11-2018 04:00,1542423902
+Barcelona - Palau Reial,Good,2.1151,41.3875,3h,Good,39,3h,Good,19,3h,Good,17,17-11-2018 04:00,1542423902
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,3h,Good,19,3h,Good,20,17-11-2018 04:00,1542423902
+Barcelona - Observ Fabra,Good,2.1239,41.4183,3h,Good,65,3h,Good,12,3h,Good,17,17-11-2018 04:00,1542423902
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,4h,Good,25,NA,NA,NA,17-11-2018 05:00,1542427502
+Barcelona - Eixample,Good,2.1538,41.3853,3h,Good,30,3h,Good,37,4h,Good,29,17-11-2018 05:00,1542427502
+Barcelona - Gràcia,Good,2.1534,41.3987,4h,Good,27,4h,Good,33,NA,NA,NA,17-11-2018 05:00,1542427502
+Barcelona - Ciutadella,Good,2.1874,41.3864,4h,Good,41,4h,Good,20,NA,NA,NA,17-11-2018 05:00,1542427502
+Barcelona - Vall Hebron,Good,2.148,41.4261,4h,Good,42,4h,Good,23,4h,Good,19,17-11-2018 05:00,1542427502
+Barcelona - Palau Reial,Good,2.1151,41.3875,4h,Good,46,4h,Good,13,4h,Good,18,17-11-2018 05:00,1542427502
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,4h,Good,23,4h,Good,20,17-11-2018 05:00,1542427502
+Barcelona - Observ Fabra,Good,2.1239,41.4183,4h,Good,70,4h,Good,9,4h,Good,16,17-11-2018 05:00,1542427502
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,5h,Good,21,NA,NA,NA,17-11-2018 06:00,1542431101
+Barcelona - Eixample,Good,2.1538,41.3853,3h,Good,30,3h,Good,37,5h,Good,30,17-11-2018 06:00,1542431101
+Barcelona - Gràcia,Good,2.1534,41.3987,5h,Good,37,5h,Good,24,NA,NA,NA,17-11-2018 06:00,1542431101
+Barcelona - Ciutadella,Good,2.1874,41.3864,5h,Good,36,5h,Good,22,NA,NA,NA,17-11-2018 06:00,1542431101
+Barcelona - Vall Hebron,Good,2.148,41.4261,5h,Good,41,5h,Good,24,5h,Good,19,17-11-2018 06:00,1542431101
+Barcelona - Palau Reial,Good,2.1151,41.3875,5h,Good,48,5h,Good,11,5h,Good,18,17-11-2018 06:00,1542431101
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,5h,Good,22,5h,Good,20,17-11-2018 06:00,1542431101
+Barcelona - Observ Fabra,Good,2.1239,41.4183,5h,Good,72,5h,Good,8,5h,Good,16,17-11-2018 06:00,1542431101
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,6h,Good,14,NA,NA,NA,17-11-2018 07:00,1542434702
+Barcelona - Eixample,Good,2.1538,41.3853,4h,--,NA,4h,--,NA,6h,Good,31,17-11-2018 07:00,1542434702
+Barcelona - Gràcia,Good,2.1534,41.3987,6h,Good,56,6h,Good,11,NA,NA,NA,17-11-2018 07:00,1542434702
+Barcelona - Ciutadella,Good,2.1874,41.3864,6h,Good,44,6h,Good,18,NA,NA,NA,17-11-2018 07:00,1542434702
+Barcelona - Vall Hebron,Good,2.148,41.4261,6h,Good,41,6h,Good,27,6h,Good,20,17-11-2018 07:00,1542434702
+Barcelona - Palau Reial,Good,2.1151,41.3875,6h,Good,44,6h,Good,15,6h,Good,18,17-11-2018 07:00,1542434702
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,6h,Good,15,6h,Good,21,17-11-2018 07:00,1542434702
+Barcelona - Observ Fabra,Good,2.1239,41.4183,6h,Good,71,6h,Good,8,6h,Good,16,17-11-2018 07:00,1542434702
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,7h,Good,22,NA,NA,NA,17-11-2018 08:00,1542438302
+Barcelona - Eixample,Good,2.1538,41.3853,5h,--,NA,5h,--,NA,7h,Good,32,17-11-2018 08:00,1542438302
+Barcelona - Gràcia,Good,2.1534,41.3987,7h,Good,43,7h,Good,23,NA,NA,NA,17-11-2018 08:00,1542438302
+Barcelona - Ciutadella,Good,2.1874,41.3864,7h,Good,41,7h,Good,24,NA,NA,NA,17-11-2018 08:00,1542438302
+Barcelona - Vall Hebron,Good,2.148,41.4261,7h,Good,43,7h,Good,25,7h,Good,19,17-11-2018 08:00,1542438302
+Barcelona - Palau Reial,Good,2.1151,41.3875,7h,Good,50,7h,Good,11,8h,Good,19,17-11-2018 08:00,1542438302
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,7h,Good,28,7h,Good,21,17-11-2018 08:00,1542438302
+Barcelona - Observ Fabra,Good,2.1239,41.4183,7h,Good,71,7h,Good,9,7h,Good,16,17-11-2018 08:00,1542438302
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,8h,Good,25,NA,NA,NA,17-11-2018 09:00,1542441901
+Barcelona - Eixample,Good,2.1538,41.3853,6h,--,NA,6h,--,NA,8h,Good,33,17-11-2018 09:00,1542441901
+Barcelona - Gràcia,Good,2.1534,41.3987,8h,Good,30,8h,Good,33,NA,NA,NA,17-11-2018 09:00,1542441901
+Barcelona - Ciutadella,Good,2.1874,41.3864,8h,Good,26,8h,Good,40,NA,NA,NA,17-11-2018 09:00,1542441901
+Barcelona - Vall Hebron,Good,2.148,41.4261,8h,Good,51,8h,Good,18,8h,Good,20,17-11-2018 09:00,1542441901
+Barcelona - Palau Reial,Good,2.1151,41.3875,8h,Good,53,8h,Good,10,8h,Good,19,17-11-2018 09:00,1542441901
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,8h,Good,42,8h,Good,21,17-11-2018 09:00,1542441901
+Barcelona - Observ Fabra,Good,2.1239,41.4183,8h,Good,73,8h,Good,5,8h,Good,17,17-11-2018 09:00,1542441901
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,9h,Good,27,NA,NA,NA,17-11-2018 10:00,1542445502
+Barcelona - Eixample,Good,2.1538,41.3853,7h,--,NA,7h,--,NA,9h,Good,33,17-11-2018 10:00,1542445502
+Barcelona - Gràcia,Good,2.1534,41.3987,9h,Good,24,9h,Good,41,NA,NA,NA,17-11-2018 10:00,1542445502
+Barcelona - Ciutadella,Good,2.1874,41.3864,9h,Good,21,9h,Good,45,NA,NA,NA,17-11-2018 10:00,1542445502
+Barcelona - Vall Hebron,Good,2.148,41.4261,9h,Good,47,9h,Good,21,9h,Good,20,17-11-2018 10:00,1542445502
+Barcelona - Palau Reial,Good,2.1151,41.3875,9h,Good,52,9h,Good,10,9h,Good,20,17-11-2018 10:00,1542445502
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,9h,Good,46,9h,Good,22,17-11-2018 10:00,1542445502
+Barcelona - Observ Fabra,Good,2.1239,41.4183,9h,Good,72,9h,Good,5,9h,Good,17,17-11-2018 10:00,1542445502
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,10h,Good,29,NA,NA,NA,17-11-2018 11:00,1542449101
+Barcelona - Eixample,Good,2.1538,41.3853,10h,Good,12,10h,Good,58,10h,Good,30,17-11-2018 11:00,1542449101
+Barcelona - Gràcia,Good,2.1534,41.3987,10h,Good,21,10h,Good,42,NA,NA,NA,17-11-2018 11:00,1542449101
+Barcelona - Ciutadella,Good,2.1874,41.3864,10h,Good,18,10h,Good,48,NA,NA,NA,17-11-2018 11:00,1542449101
+Barcelona - Vall Hebron,Good,2.148,41.4261,10h,Good,39,10h,Good,24,10h,Good,21,17-11-2018 11:00,1542449101
+Barcelona - Palau Reial,Good,2.1151,41.3875,10h,Good,48,10h,Good,12,10h,Good,20,17-11-2018 11:00,1542449101
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,10h,Good,49,10h,Good,22,17-11-2018 11:00,1542449101
+Barcelona - Observ Fabra,Good,2.1239,41.4183,10h,Good,67,10h,Good,6,10h,Good,18,17-11-2018 11:00,1542449101
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,11h,Good,33,NA,NA,NA,17-11-2018 12:00,1542452702
+Barcelona - Eixample,Good,2.1538,41.3853,11h,Good,10,11h,Good,58,11h,Good,30,17-11-2018 12:00,1542452702
+Barcelona - Gràcia,Good,2.1534,41.3987,11h,Good,12,11h,Good,48,NA,NA,NA,17-11-2018 12:00,1542452702
+Barcelona - Ciutadella,Good,2.1874,41.3864,11h,Good,21,11h,Good,42,NA,NA,NA,17-11-2018 12:00,1542452702
+Barcelona - Vall Hebron,Good,2.148,41.4261,11h,Good,24,11h,Good,36,11h,Good,21,17-11-2018 12:00,1542452702
+Barcelona - Palau Reial,Good,2.1151,41.3875,11h,Good,39,11h,Good,18,11h,Good,20,17-11-2018 12:00,1542452702
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,11h,Good,50,11h,Good,22,17-11-2018 12:00,1542452702
+Barcelona - Observ Fabra,Good,2.1239,41.4183,11h,Good,60,11h,Good,12,11h,Good,18,17-11-2018 12:00,1542452702
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,12h,Good,34,NA,NA,NA,17-11-2018 13:00,1542456302
+Barcelona - Eixample,Good,2.1538,41.3853,12h,Good,24,12h,Good,47,12h,Good,30,17-11-2018 13:00,1542456302
+Barcelona - Gràcia,Good,2.1534,41.3987,12h,Good,31,12h,Good,37,NA,NA,NA,17-11-2018 13:00,1542456302
+Barcelona - Ciutadella,Good,2.1874,41.3864,12h,Good,47,12h,Good,19,NA,NA,NA,17-11-2018 13:00,1542456302
+Barcelona - Vall Hebron,Good,2.148,41.4261,12h,Good,32,12h,Good,33,12h,Good,22,17-11-2018 13:00,1542456302
+Barcelona - Palau Reial,Good,2.1151,41.3875,12h,Good,35,12h,Good,22,12h,Good,20,17-11-2018 13:00,1542456302
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,12h,Good,20,12h,Good,22,17-11-2018 13:00,1542456302
+Barcelona - Observ Fabra,Good,2.1239,41.4183,12h,Good,59,12h,Good,14,12h,Good,18,17-11-2018 13:00,1542456302
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,13h,Good,26,NA,NA,NA,17-11-2018 14:00,1542459901
+Barcelona - Eixample,Good,2.1538,41.3853,13h,Good,30,13h,Good,46,13h,Good,30,17-11-2018 14:00,1542459901
+Barcelona - Gràcia,Good,2.1534,41.3987,13h,Good,41,13h,Good,32,NA,NA,NA,17-11-2018 14:00,1542459901
+Barcelona - Ciutadella,Good,2.1874,41.3864,13h,Good,52,13h,Good,17,NA,NA,NA,17-11-2018 14:00,1542459901
+Barcelona - Vall Hebron,Good,2.148,41.4261,13h,Good,38,13h,Good,27,13h,Good,22,17-11-2018 14:00,1542459901
+Barcelona - Palau Reial,Good,2.1151,41.3875,13h,Good,40,13h,Good,20,13h,Good,21,17-11-2018 14:00,1542459901
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,13h,Good,18,13h,Good,22,17-11-2018 14:00,1542459901
+Barcelona - Observ Fabra,Good,2.1239,41.4183,13h,Good,61,13h,Good,13,13h,Good,19,17-11-2018 14:00,1542459901
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,14h,Good,25,NA,NA,NA,17-11-2018 15:00,1542463502
+Barcelona - Eixample,Good,2.1538,41.3853,13h,Good,30,13h,Good,46,14h,Good,30,17-11-2018 15:00,1542463502
+Barcelona - Gràcia,Good,2.1534,41.3987,14h,Good,54,14h,Good,26,NA,NA,NA,17-11-2018 15:00,1542463502
+Barcelona - Ciutadella,Good,2.1874,41.3864,14h,Good,56,14h,Good,14,NA,NA,NA,17-11-2018 15:00,1542463502
+Barcelona - Vall Hebron,Good,2.148,41.4261,14h,Good,39,14h,Good,30,14h,Good,22,17-11-2018 15:00,1542463502
+Barcelona - Palau Reial,Good,2.1151,41.3875,14h,Good,53,14h,Good,13,14h,Good,21,17-11-2018 15:00,1542463502
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,14h,Good,20,14h,Good,21,17-11-2018 15:00,1542463502
+Barcelona - Observ Fabra,Good,2.1239,41.4183,14h,Good,58,14h,Good,17,14h,Good,19,17-11-2018 15:00,1542463502
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,15h,Good,23,NA,NA,NA,17-11-2018 16:00,1542467102
+Barcelona - Eixample,Good,2.1538,41.3853,13h,Good,30,13h,Good,46,15h,Good,29,17-11-2018 16:00,1542467102
+Barcelona - Gràcia,Good,2.1534,41.3987,15h,Good,56,15h,Good,23,NA,NA,NA,17-11-2018 16:00,1542467102
+Barcelona - Ciutadella,Good,2.1874,41.3864,15h,Good,57,15h,Good,13,NA,NA,NA,17-11-2018 16:00,1542467102
+Barcelona - Vall Hebron,Good,2.148,41.4261,15h,Good,63,15h,Good,18,15h,Good,22,17-11-2018 16:00,1542467102
+Barcelona - Palau Reial,Good,2.1151,41.3875,15h,Good,55,15h,Good,13,15h,Good,21,17-11-2018 16:00,1542467102
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,15h,Good,14,15h,Good,21,17-11-2018 16:00,1542467102
+Barcelona - Observ Fabra,Good,2.1239,41.4183,15h,Good,71,15h,Good,12,15h,Good,19,17-11-2018 16:00,1542467102
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,16h,Good,17,NA,NA,NA,17-11-2018 17:00,1542470701
+Barcelona - Eixample,Good,2.1538,41.3853,14h,--,NA,14h,--,NA,16h,Good,29,17-11-2018 17:00,1542470701
+Barcelona - Gràcia,Good,2.1534,41.3987,16h,Good,60,16h,Good,21,NA,NA,NA,17-11-2018 17:00,1542470701
+Barcelona - Ciutadella,Good,2.1874,41.3864,16h,Good,66,16h,Good,10,NA,NA,NA,17-11-2018 17:00,1542470701
+Barcelona - Vall Hebron,Good,2.148,41.4261,16h,Good,64,16h,Good,17,16h,Good,22,17-11-2018 17:00,1542470701
+Barcelona - Palau Reial,Good,2.1151,41.3875,16h,Good,56,16h,Good,15,16h,Good,21,17-11-2018 17:00,1542470701
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,16h,Good,12,16h,Good,21,17-11-2018 17:00,1542470701
+Barcelona - Observ Fabra,Good,2.1239,41.4183,16h,Good,72,16h,Good,12,17h,Good,19,17-11-2018 17:00,1542470701
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,17h,Good,17,NA,NA,NA,17-11-2018 18:00,1542474302
+Barcelona - Eixample,Good,2.1538,41.3853,15h,--,NA,15h,--,NA,17h,Good,29,17-11-2018 18:00,1542474302
+Barcelona - Gràcia,Good,2.1534,41.3987,16h,Good,60,16h,Good,21,NA,NA,NA,17-11-2018 18:00,1542474302
+Barcelona - Ciutadella,Good,2.1874,41.3864,17h,Good,67,17h,Good,9,NA,NA,NA,17-11-2018 18:00,1542474302
+Barcelona - Vall Hebron,Good,2.148,41.4261,17h,Good,66,17h,Good,16,17h,Good,22,17-11-2018 18:00,1542474302
+Barcelona - Palau Reial,Good,2.1151,41.3875,17h,Good,61,17h,Good,12,17h,Good,21,17-11-2018 18:00,1542474302
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,17h,Good,11,17h,Good,22,17-11-2018 18:00,1542474302
+Barcelona - Observ Fabra,Good,2.1239,41.4183,17h,Good,77,17h,Good,10,17h,Good,19,17-11-2018 18:00,1542474302
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,18h,Good,20,NA,NA,NA,17-11-2018 19:00,1542477901
+Barcelona - Eixample,Good,2.1538,41.3853,18h,Good,40,18h,Good,49,19h,Good,29,17-11-2018 19:00,1542477901
+Barcelona - Gràcia,Good,2.1534,41.3987,16h,Good,60,16h,Good,21,NA,NA,NA,17-11-2018 19:00,1542477901
+Barcelona - Ciutadella,Good,2.1874,41.3864,18h,Good,62,18h,Good,11,NA,NA,NA,17-11-2018 19:00,1542477901
+Barcelona - Vall Hebron,Good,2.148,41.4261,18h,Good,50,18h,Good,27,18h,Good,22,17-11-2018 19:00,1542477901
+Barcelona - Palau Reial,Good,2.1151,41.3875,18h,Good,57,18h,Good,14,18h,Good,21,17-11-2018 19:00,1542477901
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,18h,Good,18,18h,Good,22,17-11-2018 19:00,1542477901
+Barcelona - Observ Fabra,Good,2.1239,41.4183,18h,Good,70,18h,Good,12,18h,Good,19,17-11-2018 19:00,1542477901
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,19h,Good,31,NA,NA,NA,17-11-2018 20:00,1542481501
+Barcelona - Eixample,Good,2.1538,41.3853,19h,Good,17,19h,Good,57,19h,Good,29,17-11-2018 20:00,1542481501
+Barcelona - Gràcia,--,2.1534,41.3987,17h,--,NA,17h,--,NA,NA,NA,NA,17-11-2018 20:00,1542481501
+Barcelona - Ciutadella,Good,2.1874,41.3864,19h,Good,34,19h,Good,37,NA,NA,NA,17-11-2018 20:00,1542481501
+Barcelona - Vall Hebron,Good,2.148,41.4261,19h,Good,41,19h,Good,26,19h,Good,22,17-11-2018 20:00,1542481501
+Barcelona - Palau Reial,Good,2.1151,41.3875,19h,Good,43,19h,Good,19,19h,Good,21,17-11-2018 20:00,1542481501
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,19h,Good,36,19h,Good,22,17-11-2018 20:00,1542481501
+Barcelona - Observ Fabra,Good,2.1239,41.4183,19h,Good,62,19h,Good,11,19h,Good,19,17-11-2018 20:00,1542481501
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,20h,Good,38,NA,NA,NA,17-11-2018 21:00,1542485102
+Barcelona - Eixample,Good,2.1538,41.3853,20h,Good,16,20h,Good,60,20h,Good,29,17-11-2018 21:00,1542485102
+Barcelona - Gràcia,--,2.1534,41.3987,18h,--,NA,18h,--,NA,NA,NA,NA,17-11-2018 21:00,1542485102
+Barcelona - Ciutadella,Good,2.1874,41.3864,20h,Good,29,20h,Good,37,NA,NA,NA,17-11-2018 21:00,1542485102
+Barcelona - Vall Hebron,Good,2.148,41.4261,20h,Good,33,20h,Good,35,20h,Good,21,17-11-2018 21:00,1542485102
+Barcelona - Palau Reial,Good,2.1151,41.3875,20h,Good,43,20h,Good,18,20h,Good,21,17-11-2018 21:00,1542485102
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,20h,Good,43,20h,Good,23,17-11-2018 21:00,1542485102
+Barcelona - Observ Fabra,Good,2.1239,41.4183,20h,Good,68,20h,Good,11,20h,Good,19,17-11-2018 21:00,1542485102
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,21h,Good,34,NA,NA,NA,17-11-2018 22:00,1542488701
+Barcelona - Eixample,Good,2.1538,41.3853,21h,Good,8,21h,Good,68,21h,Good,28,17-11-2018 22:00,1542488701
+Barcelona - Gràcia,--,2.1534,41.3987,19h,--,NA,19h,--,NA,NA,NA,NA,17-11-2018 22:00,1542488701
+Barcelona - Ciutadella,Good,2.1874,41.3864,21h,Good,24,21h,Good,44,NA,NA,NA,17-11-2018 22:00,1542488701
+Barcelona - Vall Hebron,Good,2.148,41.4261,21h,Good,42,21h,Good,24,22h,Good,20,17-11-2018 22:00,1542488701
+Barcelona - Palau Reial,Good,2.1151,41.3875,21h,Good,47,21h,Good,17,21h,Good,20,17-11-2018 22:00,1542488701
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,21h,Good,50,21h,Good,22,17-11-2018 22:00,1542488701
+Barcelona - Observ Fabra,Good,2.1239,41.4183,21h,Good,69,21h,Good,8,21h,Good,18,17-11-2018 22:00,1542488701
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,22h,Good,35,NA,NA,NA,17-11-2018 23:00,1542492302
+Barcelona - Eixample,Good,2.1538,41.3853,22h,Good,10,22h,Good,66,22h,Good,28,17-11-2018 23:00,1542492302
+Barcelona - Gràcia,Good,2.1534,41.3987,22h,Good,24,22h,Good,44,NA,NA,NA,17-11-2018 23:00,1542492302
+Barcelona - Ciutadella,Good,2.1874,41.3864,22h,Good,36,22h,Good,32,NA,NA,NA,17-11-2018 23:00,1542492302
+Barcelona - Vall Hebron,Good,2.148,41.4261,22h,Good,44,22h,Good,24,22h,Good,20,17-11-2018 23:00,1542492302
+Barcelona - Palau Reial,Good,2.1151,41.3875,22h,Good,48,22h,Good,15,22h,Good,20,17-11-2018 23:00,1542492302
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,22h,Good,51,22h,Good,22,17-11-2018 23:00,1542492302
+Barcelona - Observ Fabra,Good,2.1239,41.4183,22h,Good,68,22h,Good,6,22h,Good,18,17-11-2018 23:00,1542492302
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,23h,Good,29,NA,NA,NA,18-11-2018 00:00,1542495902
+Barcelona - Eixample,Good,2.1538,41.3853,23h,Good,20,23h,Good,54,23h,Good,27,18-11-2018 00:00,1542495902
+Barcelona - Gràcia,Good,2.1534,41.3987,23h,Good,30,23h,Good,35,NA,NA,NA,18-11-2018 00:00,1542495902
+Barcelona - Ciutadella,Good,2.1874,41.3864,23h,Good,32,23h,Good,34,NA,NA,NA,18-11-2018 00:00,1542495902
+Barcelona - Vall Hebron,Good,2.148,41.4261,23h,Good,42,23h,Good,23,23h,Good,20,18-11-2018 00:00,1542495902
+Barcelona - Palau Reial,Good,2.1151,41.3875,23h,Good,48,23h,Good,14,23h,Good,20,18-11-2018 00:00,1542495902
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,23h,Good,38,23h,Good,21,18-11-2018 00:00,1542495902
+Barcelona - Observ Fabra,Good,2.1239,41.4183,23h,Good,68,23h,Good,9,23h,Good,18,18-11-2018 00:00,1542495902
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,0h,Good,28,NA,NA,NA,18-11-2018 01:00,1542499501
+Barcelona - Eixample,Good,2.1538,41.3853,0h,Good,34,0h,Good,35,0h,Good,26,18-11-2018 01:00,1542499501
+Barcelona - Gràcia,Good,2.1534,41.3987,0h,Good,23,0h,Good,40,NA,NA,NA,18-11-2018 01:00,1542499501
+Barcelona - Ciutadella,Good,2.1874,41.3864,0h,Good,49,0h,Good,18,NA,NA,NA,18-11-2018 01:00,1542499501
+Barcelona - Vall Hebron,Good,2.148,41.4261,0h,Good,44,0h,Good,21,0h,Good,19,18-11-2018 01:00,1542499501
+Barcelona - Palau Reial,Good,2.1151,41.3875,0h,Good,44,0h,Good,16,0h,Good,19,18-11-2018 01:00,1542499501
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,0h,Good,14,0h,Good,20,18-11-2018 01:00,1542499501
+Barcelona - Observ Fabra,Good,2.1239,41.4183,0h,Good,66,0h,Good,9,0h,Good,17,18-11-2018 01:00,1542499501
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,1h,Good,23,NA,NA,NA,18-11-2018 02:00,1542503102
+Barcelona - Eixample,Good,2.1538,41.3853,1h,Good,24,1h,Good,46,1h,Good,25,18-11-2018 02:00,1542503102
+Barcelona - Gràcia,Good,2.1534,41.3987,1h,Good,40,1h,Good,25,NA,NA,NA,18-11-2018 02:00,1542503102
+Barcelona - Ciutadella,Good,2.1874,41.3864,1h,Good,44,1h,Good,20,NA,NA,NA,18-11-2018 02:00,1542503102
+Barcelona - Vall Hebron,Good,2.148,41.4261,1h,Good,47,1h,Good,19,1h,Good,19,18-11-2018 02:00,1542503102
+Barcelona - Palau Reial,Good,2.1151,41.3875,1h,Good,47,1h,Good,13,1h,Good,18,18-11-2018 02:00,1542503102
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,1h,Good,27,1h,Good,20,18-11-2018 02:00,1542503102
+Barcelona - Observ Fabra,Good,2.1239,41.4183,1h,Good,71,1h,Good,7,1h,Good,17,18-11-2018 02:00,1542503102
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,2h,Good,22,NA,NA,NA,18-11-2018 03:00,1542506702
+Barcelona - Eixample,Good,2.1538,41.3853,2h,Good,38,2h,Good,36,2h,Good,25,18-11-2018 03:00,1542506702
+Barcelona - Gràcia,Good,2.1534,41.3987,2h,Good,53,2h,Good,16,NA,NA,NA,18-11-2018 03:00,1542506702
+Barcelona - Ciutadella,Good,2.1874,41.3864,2h,Good,59,2h,Good,9,NA,NA,NA,18-11-2018 03:00,1542506702
+Barcelona - Vall Hebron,Good,2.148,41.4261,2h,Good,51,2h,Good,18,2h,Good,18,18-11-2018 03:00,1542506702
+Barcelona - Palau Reial,Good,2.1151,41.3875,2h,Good,49,2h,Good,13,2h,Good,18,18-11-2018 03:00,1542506702
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,2h,Good,15,2h,Good,19,18-11-2018 03:00,1542506702
+Barcelona - Observ Fabra,Good,2.1239,41.4183,2h,Good,70,2h,Good,7,2h,Good,16,18-11-2018 03:00,1542506702
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,3h,Good,17,NA,NA,NA,18-11-2018 04:00,1542510302
+Barcelona - Eixample,Good,2.1538,41.3853,3h,Good,37,3h,Good,34,3h,Good,24,18-11-2018 04:00,1542510302
+Barcelona - Gràcia,Good,2.1534,41.3987,3h,Good,55,3h,Good,13,NA,NA,NA,18-11-2018 04:00,1542510302
+Barcelona - Ciutadella,Good,2.1874,41.3864,3h,Good,57,3h,Good,10,NA,NA,NA,18-11-2018 04:00,1542510302
+Barcelona - Vall Hebron,Good,2.148,41.4261,3h,Good,54,3h,Good,12,3h,Good,18,18-11-2018 04:00,1542510302
+Barcelona - Palau Reial,Good,2.1151,41.3875,3h,Good,53,3h,Good,9,4h,Good,18,18-11-2018 04:00,1542510302
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,3h,Good,14,4h,Good,19,18-11-2018 04:00,1542510302
+Barcelona - Observ Fabra,Good,2.1239,41.4183,3h,Good,73,3h,Good,6,3h,Good,16,18-11-2018 04:00,1542510302
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,4h,Good,13,NA,NA,NA,18-11-2018 05:00,1542513902
+Barcelona - Eixample,Good,2.1538,41.3853,4h,Good,40,4h,Good,30,4h,Good,24,18-11-2018 05:00,1542513902
+Barcelona - Gràcia,Good,2.1534,41.3987,4h,Good,56,4h,Good,11,NA,NA,NA,18-11-2018 05:00,1542513902
+Barcelona - Ciutadella,Good,2.1874,41.3864,4h,Good,63,4h,Good,7,NA,NA,NA,18-11-2018 05:00,1542513902
+Barcelona - Vall Hebron,Good,2.148,41.4261,4h,Good,47,4h,Good,17,4h,Good,18,18-11-2018 05:00,1542513902
+Barcelona - Palau Reial,Good,2.1151,41.3875,4h,Good,47,4h,Good,11,4h,Good,17,18-11-2018 05:00,1542513902
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,4h,Good,11,4h,Good,19,18-11-2018 05:00,1542513902
+Barcelona - Observ Fabra,Good,2.1239,41.4183,4h,Good,71,4h,Good,7,4h,Good,15,18-11-2018 05:00,1542513902
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,5h,Good,9,NA,NA,NA,18-11-2018 06:00,1542517501
+Barcelona - Eixample,Good,2.1538,41.3853,5h,Good,51,5h,Good,18,5h,Good,23,18-11-2018 06:00,1542517501
+Barcelona - Gràcia,Good,2.1534,41.3987,5h,Good,62,5h,Good,6,NA,NA,NA,18-11-2018 06:00,1542517501
+Barcelona - Ciutadella,Good,2.1874,41.3864,5h,Good,63,5h,Good,9,NA,NA,NA,18-11-2018 06:00,1542517501
+Barcelona - Vall Hebron,Good,2.148,41.4261,5h,Good,62,5h,Good,8,5h,Good,17,18-11-2018 06:00,1542517501
+Barcelona - Palau Reial,Good,2.1151,41.3875,5h,Good,57,5h,Good,4,5h,Good,17,18-11-2018 06:00,1542517501
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,5h,Good,13,5h,Good,18,18-11-2018 06:00,1542517501
+Barcelona - Observ Fabra,Good,2.1239,41.4183,5h,Good,73,5h,Good,4,5h,Good,15,18-11-2018 06:00,1542517501
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,6h,Good,10,NA,NA,NA,18-11-2018 07:00,1542521102
+Barcelona - Eixample,Good,2.1538,41.3853,5h,Good,51,5h,Good,18,6h,Good,23,18-11-2018 07:00,1542521102
+Barcelona - Gràcia,Good,2.1534,41.3987,6h,Good,54,6h,Good,11,NA,NA,NA,18-11-2018 07:00,1542521102
+Barcelona - Ciutadella,Good,2.1874,41.3864,6h,Good,54,6h,Good,13,NA,NA,NA,18-11-2018 07:00,1542521102
+Barcelona - Vall Hebron,Good,2.148,41.4261,6h,Good,59,6h,Good,9,6h,Good,16,18-11-2018 07:00,1542521102
+Barcelona - Palau Reial,Good,2.1151,41.3875,6h,Good,56,6h,Good,5,6h,Good,16,18-11-2018 07:00,1542521102
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,6h,Good,11,6h,Good,18,18-11-2018 07:00,1542521102
+Barcelona - Observ Fabra,Good,2.1239,41.4183,6h,Good,75,6h,Good,4,6h,Good,14,18-11-2018 07:00,1542521102
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,7h,Good,12,NA,NA,NA,18-11-2018 08:00,1542524702
+Barcelona - Eixample,Good,2.1538,41.3853,5h,Good,51,5h,Good,18,7h,Good,24,18-11-2018 08:00,1542524702
+Barcelona - Gràcia,Good,2.1534,41.3987,7h,Good,55,7h,Good,11,NA,NA,NA,18-11-2018 08:00,1542524702
+Barcelona - Ciutadella,Good,2.1874,41.3864,7h,Good,57,7h,Good,11,NA,NA,NA,18-11-2018 08:00,1542524702
+Barcelona - Vall Hebron,Good,2.148,41.4261,7h,Good,56,7h,Good,12,7h,Good,16,18-11-2018 08:00,1542524702
+Barcelona - Palau Reial,Good,2.1151,41.3875,7h,Good,53,7h,Good,7,7h,Good,16,18-11-2018 08:00,1542524702
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,7h,Good,13,7h,Good,18,18-11-2018 08:00,1542524702
+Barcelona - Observ Fabra,Good,2.1239,41.4183,7h,Good,74,7h,Good,5,7h,Good,14,18-11-2018 08:00,1542524702
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,8h,Good,12,NA,NA,NA,18-11-2018 09:00,1542528302
+Barcelona - Eixample,Good,2.1538,41.3853,6h,--,NA,6h,--,NA,8h,Good,24,18-11-2018 09:00,1542528302
+Barcelona - Gràcia,Good,2.1534,41.3987,8h,Good,55,8h,Good,12,NA,NA,NA,18-11-2018 09:00,1542528302
+Barcelona - Ciutadella,Good,2.1874,41.3864,8h,Good,54,8h,Good,17,NA,NA,NA,18-11-2018 09:00,1542528302
+Barcelona - Vall Hebron,Good,2.148,41.4261,8h,Good,61,8h,Good,9,8h,Good,15,18-11-2018 09:00,1542528302
+Barcelona - Palau Reial,Good,2.1151,41.3875,8h,Good,58,8h,Good,5,8h,Good,15,18-11-2018 09:00,1542528302
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,8h,Good,16,8h,Good,17,18-11-2018 09:00,1542528302
+Barcelona - Observ Fabra,Good,2.1239,41.4183,8h,Good,77,8h,Good,4,8h,Good,13,18-11-2018 09:00,1542528302
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,9h,Good,16,NA,NA,NA,18-11-2018 10:00,1542531902
+Barcelona - Eixample,Good,2.1538,41.3853,9h,Good,39,9h,Good,29,9h,Good,21,18-11-2018 10:00,1542531902
+Barcelona - Gràcia,Good,2.1534,41.3987,9h,Good,46,9h,Good,20,NA,NA,NA,18-11-2018 10:00,1542531902
+Barcelona - Ciutadella,Good,2.1874,41.3864,9h,Good,61,9h,Good,12,NA,NA,NA,18-11-2018 10:00,1542531902
+Barcelona - Vall Hebron,Good,2.148,41.4261,9h,Good,49,9h,Good,19,9h,Good,15,18-11-2018 10:00,1542531902
+Barcelona - Palau Reial,Good,2.1151,41.3875,9h,Good,55,9h,Good,8,9h,Good,14,18-11-2018 10:00,1542531902
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,9h,Good,12,9h,Good,17,18-11-2018 10:00,1542531902
+Barcelona - Observ Fabra,Good,2.1239,41.4183,9h,Good,73,9h,Good,7,9h,Good,12,18-11-2018 10:00,1542531902
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,10h,Good,15,NA,NA,NA,18-11-2018 11:00,1542535501
+Barcelona - Eixample,Good,2.1538,41.3853,10h,Good,41,10h,Good,27,10h,Good,20,18-11-2018 11:00,1542535501
+Barcelona - Gràcia,Good,2.1534,41.3987,10h,Good,47,10h,Good,19,NA,NA,NA,18-11-2018 11:00,1542535501
+Barcelona - Ciutadella,Good,2.1874,41.3864,10h,Good,44,10h,Good,22,NA,NA,NA,18-11-2018 11:00,1542535501
+Barcelona - Vall Hebron,Good,2.148,41.4261,10h,Good,56,10h,Good,13,10h,Good,14,18-11-2018 11:00,1542535501
+Barcelona - Palau Reial,Good,2.1151,41.3875,10h,Good,57,10h,Good,6,10h,Good,13,18-11-2018 11:00,1542535501
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,10h,Good,22,10h,Good,16,18-11-2018 11:00,1542535501
+Barcelona - Observ Fabra,Good,2.1239,41.4183,10h,Good,75,10h,Good,3,10h,Good,11,18-11-2018 11:00,1542535501
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,11h,Good,19,NA,NA,NA,18-11-2018 12:00,1542539102
+Barcelona - Eixample,Good,2.1538,41.3853,11h,Good,37,11h,Good,32,11h,Good,18,18-11-2018 12:00,1542539102
+Barcelona - Gràcia,Good,2.1534,41.3987,11h,Good,42,11h,Good,23,NA,NA,NA,18-11-2018 12:00,1542539102
+Barcelona - Ciutadella,Good,2.1874,41.3864,11h,Good,53,11h,Good,16,NA,NA,NA,18-11-2018 12:00,1542539102
+Barcelona - Vall Hebron,Good,2.148,41.4261,11h,Good,51,11h,Good,18,11h,Good,13,18-11-2018 12:00,1542539102
+Barcelona - Palau Reial,Good,2.1151,41.3875,11h,Good,54,11h,Good,8,11h,Good,13,18-11-2018 12:00,1542539102
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,11h,Good,13,11h,Good,15,18-11-2018 12:00,1542539102
+Barcelona - Observ Fabra,Good,2.1239,41.4183,11h,Good,71,11h,Good,7,11h,Good,11,18-11-2018 12:00,1542539102
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,12h,Good,15,NA,NA,NA,18-11-2018 13:00,1542542702
+Barcelona - Eixample,Good,2.1538,41.3853,12h,Good,55,12h,Good,22,12h,Good,17,18-11-2018 13:00,1542542702
+Barcelona - Gràcia,Good,2.1534,41.3987,12h,Good,63,12h,Good,11,NA,NA,NA,18-11-2018 13:00,1542542702
+Barcelona - Ciutadella,Good,2.1874,41.3864,12h,Good,57,12h,Good,16,NA,NA,NA,18-11-2018 13:00,1542542702
+Barcelona - Vall Hebron,Good,2.148,41.4261,12h,Good,52,12h,Good,22,12h,Good,12,18-11-2018 13:00,1542542702
+Barcelona - Palau Reial,Good,2.1151,41.3875,12h,Good,57,12h,Good,9,12h,Good,12,18-11-2018 13:00,1542542702
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,12h,Good,13,12h,Good,14,18-11-2018 13:00,1542542702
+Barcelona - Observ Fabra,Good,2.1239,41.4183,12h,Good,69,12h,Good,8,12h,Good,10,18-11-2018 13:00,1542542702
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,12h,Good,15,NA,NA,NA,18-11-2018 14:00,1542546301
+Barcelona - Eixample,Good,2.1538,41.3853,13h,Good,46,13h,Good,33,13h,Good,17,18-11-2018 14:00,1542546301
+Barcelona - Gràcia,Good,2.1534,41.3987,13h,Good,61,13h,Good,14,NA,NA,NA,18-11-2018 14:00,1542546301
+Barcelona - Ciutadella,Good,2.1874,41.3864,13h,Good,58,13h,Good,13,NA,NA,NA,18-11-2018 14:00,1542546301
+Barcelona - Vall Hebron,Good,2.148,41.4261,13h,Good,61,13h,Good,16,13h,Good,11,18-11-2018 14:00,1542546301
+Barcelona - Palau Reial,Good,2.1151,41.3875,13h,Good,57,13h,Good,8,13h,Good,11,18-11-2018 14:00,1542546301
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,13h,Good,20,13h,Good,14,18-11-2018 14:00,1542546301
+Barcelona - Observ Fabra,Good,2.1239,41.4183,13h,Good,70,13h,Good,9,13h,Good,10,18-11-2018 14:00,1542546301
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,12h,Good,15,NA,NA,NA,18-11-2018 15:00,1542549902
+Barcelona - Eixample,Good,2.1538,41.3853,14h,Good,43,14h,Good,36,15h,Good,15,18-11-2018 15:00,1542549902
+Barcelona - Gràcia,Good,2.1534,41.3987,14h,Good,59,14h,Good,17,NA,NA,NA,18-11-2018 15:00,1542549902
+Barcelona - Ciutadella,Good,2.1874,41.3864,14h,Good,56,14h,Good,17,NA,NA,NA,18-11-2018 15:00,1542549902
+Barcelona - Vall Hebron,Good,2.148,41.4261,14h,Good,59,14h,Good,19,14h,Good,10,18-11-2018 15:00,1542549902
+Barcelona - Palau Reial,Good,2.1151,41.3875,14h,Good,57,14h,Good,10,14h,Good,11,18-11-2018 15:00,1542549902
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,14h,Good,18,14h,Good,13,18-11-2018 15:00,1542549902
+Barcelona - Observ Fabra,Good,2.1239,41.4183,14h,Good,72,14h,Good,9,14h,Good,9,18-11-2018 15:00,1542549902
+Barcelona - Sants,--,2.1331,41.3788,NA,NA,NA,13h,--,NA,NA,NA,NA,18-11-2018 16:00,1542553502
+Barcelona - Eixample,Good,2.1538,41.3853,15h,Good,45,15h,Good,37,15h,Good,15,18-11-2018 16:00,1542553502
+Barcelona - Gràcia,Good,2.1534,41.3987,15h,Good,59,15h,Good,19,NA,NA,NA,18-11-2018 16:00,1542553502
+Barcelona - Ciutadella,Good,2.1874,41.3864,15h,Good,60,15h,Good,14,NA,NA,NA,18-11-2018 16:00,1542553502
+Barcelona - Vall Hebron,Good,2.148,41.4261,15h,Good,60,15h,Good,18,15h,Good,10,18-11-2018 16:00,1542553502
+Barcelona - Palau Reial,Good,2.1151,41.3875,15h,Good,55,15h,Good,12,15h,Good,10,18-11-2018 16:00,1542553502
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,15h,Good,26,15h,Good,13,18-11-2018 16:00,1542553502
+Barcelona - Observ Fabra,Good,2.1239,41.4183,15h,Good,70,15h,Good,9,15h,Good,8,18-11-2018 16:00,1542553502
+Barcelona - Sants,--,2.1331,41.3788,NA,NA,NA,14h,--,NA,NA,NA,NA,18-11-2018 17:00,1542557102
+Barcelona - Eixample,Good,2.1538,41.3853,16h,Good,52,16h,Good,30,16h,Good,15,18-11-2018 17:00,1542557102
+Barcelona - Gràcia,Good,2.1534,41.3987,16h,Good,65,16h,Good,15,NA,NA,NA,18-11-2018 17:00,1542557102
+Barcelona - Ciutadella,Good,2.1874,41.3864,16h,Good,70,16h,Good,7,NA,NA,NA,18-11-2018 17:00,1542557102
+Barcelona - Vall Hebron,Good,2.148,41.4261,16h,Good,69,16h,Good,12,16h,Good,9,18-11-2018 17:00,1542557102
+Barcelona - Palau Reial,Good,2.1151,41.3875,16h,Good,59,16h,Good,10,16h,Good,9,18-11-2018 17:00,1542557102
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,16h,Good,11,16h,Good,13,18-11-2018 17:00,1542557102
+Barcelona - Observ Fabra,Good,2.1239,41.4183,16h,Good,77,16h,Good,8,16h,Good,8,18-11-2018 17:00,1542557102
+Barcelona - Sants,--,2.1331,41.3788,NA,NA,NA,15h,--,NA,NA,NA,NA,18-11-2018 18:00,1542560702
+Barcelona - Eixample,Good,2.1538,41.3853,17h,Good,48,17h,Good,38,17h,Good,14,18-11-2018 18:00,1542560702
+Barcelona - Gràcia,Good,2.1534,41.3987,17h,Good,65,17h,Good,17,NA,NA,NA,18-11-2018 18:00,1542560702
+Barcelona - Ciutadella,Good,2.1874,41.3864,17h,Good,71,17h,Good,7,NA,NA,NA,18-11-2018 18:00,1542560702
+Barcelona - Vall Hebron,Good,2.148,41.4261,17h,Good,68,17h,Good,14,18h,Good,8,18-11-2018 18:00,1542560702
+Barcelona - Palau Reial,Good,2.1151,41.3875,17h,Good,61,17h,Good,9,17h,Good,9,18-11-2018 18:00,1542560702
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,17h,Good,9,17h,Good,13,18-11-2018 18:00,1542560702
+Barcelona - Observ Fabra,Good,2.1239,41.4183,17h,Good,80,17h,Good,8,17h,Good,7,18-11-2018 18:00,1542560702
+Barcelona - Sants,--,2.1331,41.3788,NA,NA,NA,16h,--,NA,NA,NA,NA,18-11-2018 19:00,1542564301
+Barcelona - Eixample,Good,2.1538,41.3853,18h,Good,49,18h,Good,37,18h,Good,14,18-11-2018 19:00,1542564301
+Barcelona - Gràcia,Good,2.1534,41.3987,18h,Good,56,18h,Good,24,NA,NA,NA,18-11-2018 19:00,1542564301
+Barcelona - Ciutadella,Good,2.1874,41.3864,18h,Good,67,18h,Good,7,NA,NA,NA,18-11-2018 19:00,1542564301
+Barcelona - Vall Hebron,Good,2.148,41.4261,18h,Good,51,18h,Good,28,18h,Good,8,18-11-2018 19:00,1542564301
+Barcelona - Palau Reial,Good,2.1151,41.3875,18h,Good,53,18h,Good,16,18h,Good,9,18-11-2018 19:00,1542564301
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,18h,Good,9,18h,Good,12,18-11-2018 19:00,1542564301
+Barcelona - Observ Fabra,Good,2.1239,41.4183,18h,Good,72,18h,Good,13,18h,Good,7,18-11-2018 19:00,1542564301
+Barcelona - Sants,--,2.1331,41.3788,NA,NA,NA,17h,--,NA,NA,NA,NA,18-11-2018 20:00,1542567902
+Barcelona - Eixample,Good,2.1538,41.3853,19h,Good,46,19h,Good,43,19h,Good,13,18-11-2018 20:00,1542567902
+Barcelona - Gràcia,Good,2.1534,41.3987,19h,Good,58,19h,Good,21,NA,NA,NA,18-11-2018 20:00,1542567902
+Barcelona - Ciutadella,Good,2.1874,41.3864,19h,Good,68,19h,Good,7,NA,NA,NA,18-11-2018 20:00,1542567902
+Barcelona - Vall Hebron,Good,2.148,41.4261,19h,Good,38,19h,Good,39,19h,Good,8,18-11-2018 20:00,1542567902
+Barcelona - Palau Reial,Good,2.1151,41.3875,19h,Good,46,19h,Good,22,19h,Good,9,18-11-2018 20:00,1542567902
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,19h,Good,8,19h,Good,12,18-11-2018 20:00,1542567902
+Barcelona - Observ Fabra,Good,2.1239,41.4183,19h,Good,68,19h,Good,16,19h,Good,6,18-11-2018 20:00,1542567902
+Barcelona - Sants,--,2.1331,41.3788,NA,NA,NA,18h,--,NA,NA,NA,NA,18-11-2018 21:00,1542571502
+Barcelona - Eixample,Good,2.1538,41.3853,20h,Good,53,20h,Good,32,20h,Good,14,18-11-2018 21:00,1542571502
+Barcelona - Gràcia,Good,2.1534,41.3987,20h,Good,65,20h,Good,14,NA,NA,NA,18-11-2018 21:00,1542571502
+Barcelona - Ciutadella,Good,2.1874,41.3864,20h,Good,70,20h,Good,6,NA,NA,NA,18-11-2018 21:00,1542571502
+Barcelona - Vall Hebron,Good,2.148,41.4261,20h,Good,69,20h,Good,13,20h,Good,8,18-11-2018 21:00,1542571502
+Barcelona - Palau Reial,Good,2.1151,41.3875,20h,Good,59,20h,Good,11,20h,Good,9,18-11-2018 21:00,1542571502
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,20h,Good,7,20h,Good,12,18-11-2018 21:00,1542571502
+Barcelona - Observ Fabra,Good,2.1239,41.4183,20h,Good,78,20h,Good,7,20h,Good,6,18-11-2018 21:00,1542571502
+Barcelona - Sants,--,2.1331,41.3788,NA,NA,NA,19h,--,NA,NA,NA,NA,18-11-2018 22:00,1542575101
+Barcelona - Eixample,Good,2.1538,41.3853,21h,Good,56,21h,Good,30,21h,Good,14,18-11-2018 22:00,1542575101
+Barcelona - Gràcia,Good,2.1534,41.3987,21h,Good,67,21h,Good,14,NA,NA,NA,18-11-2018 22:00,1542575101
+Barcelona - Ciutadella,Good,2.1874,41.3864,21h,Good,72,21h,Good,6,NA,NA,NA,18-11-2018 22:00,1542575101
+Barcelona - Vall Hebron,Good,2.148,41.4261,21h,Good,70,21h,Good,13,21h,Good,8,18-11-2018 22:00,1542575101
+Barcelona - Palau Reial,Good,2.1151,41.3875,21h,Good,60,21h,Good,11,21h,Good,9,18-11-2018 22:00,1542575101
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,21h,Good,6,21h,Good,13,18-11-2018 22:00,1542575101
+Barcelona - Observ Fabra,Good,2.1239,41.4183,21h,Good,76,21h,Good,10,21h,Good,6,18-11-2018 22:00,1542575101
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,22h,Good,13,NA,NA,NA,18-11-2018 23:00,1542578702
+Barcelona - Eixample,Good,2.1538,41.3853,22h,Good,60,22h,Good,24,22h,Good,14,18-11-2018 23:00,1542578702
+Barcelona - Gràcia,Good,2.1534,41.3987,22h,Good,69,22h,Good,10,NA,NA,NA,18-11-2018 23:00,1542578702
+Barcelona - Ciutadella,Good,2.1874,41.3864,22h,Good,72,22h,Good,5,NA,NA,NA,18-11-2018 23:00,1542578702
+Barcelona - Vall Hebron,Good,2.148,41.4261,22h,Good,73,22h,Good,10,22h,Good,8,18-11-2018 23:00,1542578702
+Barcelona - Palau Reial,Good,2.1151,41.3875,22h,Good,61,22h,Good,9,22h,Good,10,18-11-2018 23:00,1542578702
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,22h,Good,6,22h,Good,14,18-11-2018 23:00,1542578702
+Barcelona - Observ Fabra,Good,2.1239,41.4183,22h,Good,80,22h,Good,6,22h,Good,7,18-11-2018 23:00,1542578702
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,23h,Good,11,NA,NA,NA,19-11-2018 00:00,1542582302
+Barcelona - Eixample,Good,2.1538,41.3853,23h,Good,61,23h,Good,19,23h,Good,15,19-11-2018 00:00,1542582302
+Barcelona - Gràcia,Good,2.1534,41.3987,23h,Good,69,23h,Good,9,NA,NA,NA,19-11-2018 00:00,1542582302
+Barcelona - Ciutadella,Good,2.1874,41.3864,23h,Good,72,23h,Good,5,NA,NA,NA,19-11-2018 00:00,1542582302
+Barcelona - Vall Hebron,Good,2.148,41.4261,23h,Good,72,23h,Good,9,23h,Good,8,19-11-2018 00:00,1542582302
+Barcelona - Palau Reial,Good,2.1151,41.3875,23h,Good,63,23h,Good,6,23h,Good,10,19-11-2018 00:00,1542582302
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,0h,Good,5,0h,Good,15,19-11-2018 00:00,1542582302
+Barcelona - Observ Fabra,Good,2.1239,41.4183,23h,Good,79,23h,Good,6,23h,Good,7,19-11-2018 00:00,1542582302
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,0h,Good,11,NA,NA,NA,19-11-2018 01:00,1542585901
+Barcelona - Eixample,Good,2.1538,41.3853,0h,Good,56,0h,Good,22,0h,Good,15,19-11-2018 01:00,1542585901
+Barcelona - Gràcia,Good,2.1534,41.3987,0h,Good,65,0h,Good,10,NA,NA,NA,19-11-2018 01:00,1542585901
+Barcelona - Ciutadella,Good,2.1874,41.3864,0h,Good,71,0h,Good,5,NA,NA,NA,19-11-2018 01:00,1542585901
+Barcelona - Vall Hebron,Good,2.148,41.4261,0h,Good,51,0h,Good,19,0h,Good,9,19-11-2018 01:00,1542585901
+Barcelona - Palau Reial,Good,2.1151,41.3875,0h,Good,57,0h,Good,9,0h,Good,11,19-11-2018 01:00,1542585901
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,0h,Good,13,0h,Good,15,19-11-2018 01:00,1542585901
+Barcelona - Observ Fabra,Good,2.1239,41.4183,0h,Good,70,0h,Good,9,0h,Good,8,19-11-2018 01:00,1542585901
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,1h,Good,12,NA,NA,NA,19-11-2018 02:00,1542589502
+Barcelona - Eixample,Good,2.1538,41.3853,0h,Good,56,0h,Good,22,1h,Good,15,19-11-2018 02:00,1542589502
+Barcelona - Gràcia,Good,2.1534,41.3987,1h,Good,65,1h,Good,8,NA,NA,NA,19-11-2018 02:00,1542589502
+Barcelona - Ciutadella,Good,2.1874,41.3864,1h,Good,60,1h,Good,16,NA,NA,NA,19-11-2018 02:00,1542589502
+Barcelona - Vall Hebron,Good,2.148,41.4261,1h,Good,54,1h,Good,15,1h,Good,9,19-11-2018 02:00,1542589502
+Barcelona - Palau Reial,Good,2.1151,41.3875,1h,Good,53,1h,Good,8,1h,Good,11,19-11-2018 02:00,1542589502
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,1h,Good,12,1h,Good,16,19-11-2018 02:00,1542589502
+Barcelona - Observ Fabra,Good,2.1239,41.4183,1h,Good,71,1h,Good,7,1h,Good,8,19-11-2018 02:00,1542589502
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,2h,Good,14,NA,NA,NA,19-11-2018 03:00,1542593102
+Barcelona - Eixample,Good,2.1538,41.3853,0h,Good,56,0h,Good,22,2h,Good,16,19-11-2018 03:00,1542593102
+Barcelona - Gràcia,Good,2.1534,41.3987,2h,Good,53,2h,Good,12,NA,NA,NA,19-11-2018 03:00,1542593102
+Barcelona - Ciutadella,Good,2.1874,41.3864,2h,Good,58,2h,Good,15,NA,NA,NA,19-11-2018 03:00,1542593102
+Barcelona - Vall Hebron,Good,2.148,41.4261,2h,Good,57,2h,Good,12,2h,Good,9,19-11-2018 03:00,1542593102
+Barcelona - Palau Reial,Good,2.1151,41.3875,2h,Good,53,2h,Good,7,2h,Good,11,19-11-2018 03:00,1542593102
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,2h,Good,7,2h,Good,16,19-11-2018 03:00,1542593102
+Barcelona - Observ Fabra,Good,2.1239,41.4183,2h,Good,73,2h,Good,6,2h,Good,8,19-11-2018 03:00,1542593102
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,3h,Good,15,NA,NA,NA,19-11-2018 04:00,1542596702
+Barcelona - Eixample,Good,2.1538,41.3853,1h,--,NA,1h,--,NA,3h,Good,16,19-11-2018 04:00,1542596702
+Barcelona - Gràcia,Good,2.1534,41.3987,3h,Good,49,3h,Good,13,NA,NA,NA,19-11-2018 04:00,1542596702
+Barcelona - Ciutadella,Good,2.1874,41.3864,3h,Good,57,3h,Good,13,NA,NA,NA,19-11-2018 04:00,1542596702
+Barcelona - Vall Hebron,Good,2.148,41.4261,3h,Good,58,3h,Good,11,3h,Good,9,19-11-2018 04:00,1542596702
+Barcelona - Palau Reial,Good,2.1151,41.3875,3h,Good,54,3h,Good,6,3h,Good,12,19-11-2018 04:00,1542596702
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,3h,Good,9,3h,Good,17,19-11-2018 04:00,1542596702
+Barcelona - Observ Fabra,Good,2.1239,41.4183,3h,Good,73,3h,Good,6,3h,Good,8,19-11-2018 04:00,1542596702
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,4h,Good,12,NA,NA,NA,19-11-2018 05:00,1542600302
+Barcelona - Eixample,Good,2.1538,41.3853,2h,--,NA,2h,--,NA,4h,Good,17,19-11-2018 05:00,1542600302
+Barcelona - Gràcia,Good,2.1534,41.3987,4h,Good,54,4h,Good,10,NA,NA,NA,19-11-2018 05:00,1542600302
+Barcelona - Ciutadella,Good,2.1874,41.3864,4h,Good,59,4h,Good,8,NA,NA,NA,19-11-2018 05:00,1542600302
+Barcelona - Vall Hebron,Good,2.148,41.4261,4h,Good,57,4h,Good,12,4h,Good,10,19-11-2018 05:00,1542600302
+Barcelona - Palau Reial,Good,2.1151,41.3875,4h,Good,54,4h,Good,7,4h,Good,12,19-11-2018 05:00,1542600302
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,4h,Good,6,4h,Good,17,19-11-2018 05:00,1542600302
+Barcelona - Observ Fabra,Good,2.1239,41.4183,4h,Good,74,4h,Good,6,4h,Good,9,19-11-2018 05:00,1542600302
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,5h,Good,12,NA,NA,NA,19-11-2018 06:00,1542603901
+Barcelona - Eixample,Good,2.1538,41.3853,3h,--,NA,3h,--,NA,5h,Good,17,19-11-2018 06:00,1542603901
+Barcelona - Gràcia,Good,2.1534,41.3987,5h,Good,51,5h,Good,12,NA,NA,NA,19-11-2018 06:00,1542603901
+Barcelona - Ciutadella,Good,2.1874,41.3864,5h,Good,62,5h,Good,6,NA,NA,NA,19-11-2018 06:00,1542603901
+Barcelona - Vall Hebron,Good,2.148,41.4261,5h,Good,63,5h,Good,8,5h,Good,10,19-11-2018 06:00,1542603901
+Barcelona - Palau Reial,Good,2.1151,41.3875,5h,Good,58,5h,Good,4,5h,Good,12,19-11-2018 06:00,1542603901
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,5h,Good,6,5h,Good,17,19-11-2018 06:00,1542603901
+Barcelona - Observ Fabra,Good,2.1239,41.4183,5h,Good,75,5h,Good,5,5h,Good,9,19-11-2018 06:00,1542603901
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,6h,Good,13,NA,NA,NA,19-11-2018 07:00,1542607502
+Barcelona - Eixample,Good,2.1538,41.3853,4h,--,NA,4h,--,NA,6h,Good,18,19-11-2018 07:00,1542607502
+Barcelona - Gràcia,Good,2.1534,41.3987,6h,Good,49,6h,Good,16,NA,NA,NA,19-11-2018 07:00,1542607502
+Barcelona - Ciutadella,Good,2.1874,41.3864,6h,Good,61,6h,Good,10,NA,NA,NA,19-11-2018 07:00,1542607502
+Barcelona - Vall Hebron,Good,2.148,41.4261,6h,Good,57,6h,Good,15,6h,Good,10,19-11-2018 07:00,1542607502
+Barcelona - Palau Reial,Good,2.1151,41.3875,6h,Good,57,6h,Good,6,6h,Good,13,19-11-2018 07:00,1542607502
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,6h,Good,10,6h,Good,17,19-11-2018 07:00,1542607502
+Barcelona - Observ Fabra,Good,2.1239,41.4183,6h,Good,75,6h,Good,7,6h,Good,9,19-11-2018 07:00,1542607502
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,7h,Good,20,NA,NA,NA,19-11-2018 08:00,1542611102
+Barcelona - Eixample,Good,2.1538,41.3853,7h,Good,41,7h,Good,36,7h,Good,17,19-11-2018 08:00,1542611102
+Barcelona - Gràcia,Good,2.1534,41.3987,7h,Good,50,7h,Good,21,NA,NA,NA,19-11-2018 08:00,1542611102
+Barcelona - Ciutadella,Good,2.1874,41.3864,7h,Good,49,7h,Good,25,NA,NA,NA,19-11-2018 08:00,1542611102
+Barcelona - Vall Hebron,Good,2.148,41.4261,7h,Good,49,7h,Good,24,7h,Good,10,19-11-2018 08:00,1542611102
+Barcelona - Palau Reial,Good,2.1151,41.3875,7h,Good,50,7h,Good,14,7h,Good,13,19-11-2018 08:00,1542611102
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,7h,Good,19,7h,Good,18,19-11-2018 08:00,1542611102
+Barcelona - Observ Fabra,Good,2.1239,41.4183,7h,Good,74,7h,Good,7,7h,Good,10,19-11-2018 08:00,1542611102
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,8h,Good,37,NA,NA,NA,19-11-2018 09:00,1542614701
+Barcelona - Eixample,Good,2.1538,41.3853,8h,Good,20,8h,Good,67,8h,Good,18,19-11-2018 09:00,1542614701
+Barcelona - Gràcia,Good,2.1534,41.3987,8h,Good,43,8h,Good,36,NA,NA,NA,19-11-2018 09:00,1542614701
+Barcelona - Ciutadella,Good,2.1874,41.3864,8h,Good,48,8h,Good,32,NA,NA,NA,19-11-2018 09:00,1542614701
+Barcelona - Vall Hebron,Good,2.148,41.4261,8h,Good,37,8h,Good,43,8h,Good,11,19-11-2018 09:00,1542614701
+Barcelona - Palau Reial,Good,2.1151,41.3875,8h,Good,39,8h,Good,29,8h,Good,14,19-11-2018 09:00,1542614701
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,8h,Good,27,8h,Good,18,19-11-2018 09:00,1542614701
+Barcelona - Observ Fabra,Good,2.1239,41.4183,8h,Good,73,8h,Good,10,8h,Good,10,19-11-2018 09:00,1542614701
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,9h,Good,50,NA,NA,NA,19-11-2018 10:00,1542618302
+Barcelona - Eixample,Good,2.1538,41.3853,9h,Good,12,9h,Good,77,9h,Good,19,19-11-2018 10:00,1542618302
+Barcelona - Gràcia,Good,2.1534,41.3987,9h,Good,33,9h,Good,47,NA,NA,NA,19-11-2018 10:00,1542618302
+Barcelona - Ciutadella,Good,2.1874,41.3864,9h,Good,37,9h,Good,43,NA,NA,NA,19-11-2018 10:00,1542618302
+Barcelona - Vall Hebron,Good,2.148,41.4261,9h,Good,35,9h,Good,43,9h,Good,11,19-11-2018 10:00,1542618302
+Barcelona - Palau Reial,Good,2.1151,41.3875,9h,Good,24,9h,Good,50,9h,Good,14,19-11-2018 10:00,1542618302
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,9h,Good,40,9h,Good,18,19-11-2018 10:00,1542618302
+Barcelona - Observ Fabra,Good,2.1239,41.4183,9h,Good,71,9h,Good,11,9h,Good,10,19-11-2018 10:00,1542618302
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,10h,Good,48,NA,NA,NA,19-11-2018 11:00,1542621902
+Barcelona - Eixample,Good,2.1538,41.3853,10h,Good,14,10h,Good,76,10h,Good,20,19-11-2018 11:00,1542621902
+Barcelona - Gràcia,Good,2.1534,41.3987,10h,Good,34,10h,Good,48,NA,NA,NA,19-11-2018 11:00,1542621902
+Barcelona - Ciutadella,Good,2.1874,41.3864,10h,Good,41,10h,Good,37,NA,NA,NA,19-11-2018 11:00,1542621902
+Barcelona - Vall Hebron,Good,2.148,41.4261,10h,Good,31,10h,Good,48,11h,Good,12,19-11-2018 11:00,1542621902
+Barcelona - Palau Reial,Good,2.1151,41.3875,10h,Good,30,10h,Good,41,10h,Good,14,19-11-2018 11:00,1542621902
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,10h,Good,41,10h,Good,19,19-11-2018 11:00,1542621902
+Barcelona - Observ Fabra,Good,2.1239,41.4183,10h,Good,68,10h,Good,13,10h,Good,11,19-11-2018 11:00,1542621902
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,11h,Good,36,NA,NA,NA,19-11-2018 12:00,1542625501
+Barcelona - Eixample,Good,2.1538,41.3853,11h,Good,20,11h,Good,67,11h,Good,21,19-11-2018 12:00,1542625501
+Barcelona - Gràcia,Good,2.1534,41.3987,11h,Good,47,11h,Good,32,NA,NA,NA,19-11-2018 12:00,1542625501
+Barcelona - Ciutadella,Good,2.1874,41.3864,11h,Good,49,11h,Good,25,NA,NA,NA,19-11-2018 12:00,1542625501
+Barcelona - Vall Hebron,Good,2.148,41.4261,11h,Good,47,11h,Good,30,11h,Good,12,19-11-2018 12:00,1542625501
+Barcelona - Palau Reial,Good,2.1151,41.3875,11h,Good,43,11h,Good,25,11h,Good,15,19-11-2018 12:00,1542625501
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,11h,Good,32,11h,Good,20,19-11-2018 12:00,1542625501
+Barcelona - Observ Fabra,Good,2.1239,41.4183,11h,Good,68,11h,Good,10,11h,Good,11,19-11-2018 12:00,1542625501
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,12h,Good,25,NA,NA,NA,19-11-2018 13:00,1542629103
+Barcelona - Eixample,Good,2.1538,41.3853,12h,Good,37,12h,Good,48,12h,Good,21,19-11-2018 13:00,1542629103
+Barcelona - Gràcia,Good,2.1534,41.3987,12h,Good,53,12h,Good,27,NA,NA,NA,19-11-2018 13:00,1542629103
+Barcelona - Ciutadella,Good,2.1874,41.3864,11h,Good,49,11h,Good,25,NA,NA,NA,19-11-2018 13:00,1542629103
+Barcelona - Vall Hebron,Good,2.148,41.4261,12h,Good,64,12h,Good,15,12h,Good,13,19-11-2018 13:00,1542629103
+Barcelona - Palau Reial,Good,2.1151,41.3875,12h,Good,53,12h,Good,15,12h,Good,15,19-11-2018 13:00,1542629103
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,12h,Good,25,12h,Good,20,19-11-2018 13:00,1542629103
+Barcelona - Observ Fabra,Good,2.1239,41.4183,12h,Good,70,12h,Good,10,12h,Good,12,19-11-2018 13:00,1542629103
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,12h,Good,25,NA,NA,NA,19-11-2018 14:00,1542632701
+Barcelona - Eixample,Good,2.1538,41.3853,13h,Good,38,13h,Good,50,13h,Good,22,19-11-2018 14:00,1542632701
+Barcelona - Gràcia,Good,2.1534,41.3987,13h,Good,56,13h,Good,28,NA,NA,NA,19-11-2018 14:00,1542632701
+Barcelona - Ciutadella,Good,2.1874,41.3864,11h,Good,49,11h,Good,25,NA,NA,NA,19-11-2018 14:00,1542632701
+Barcelona - Vall Hebron,Good,2.148,41.4261,13h,Good,66,13h,Good,15,13h,Good,14,19-11-2018 14:00,1542632701
+Barcelona - Palau Reial,Good,2.1151,41.3875,13h,Good,58,13h,Good,11,13h,Good,15,19-11-2018 14:00,1542632701
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,13h,Good,19,13h,Good,21,19-11-2018 14:00,1542632701
+Barcelona - Observ Fabra,Good,2.1239,41.4183,13h,Good,73,13h,Good,9,13h,Good,12,19-11-2018 14:00,1542632701
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,12h,Good,25,NA,NA,NA,19-11-2018 15:00,1542636302
+Barcelona - Eixample,Good,2.1538,41.3853,14h,Good,43,14h,Good,45,14h,Good,23,19-11-2018 15:00,1542636302
+Barcelona - Gràcia,Good,2.1534,41.3987,14h,Good,56,14h,Good,26,NA,NA,NA,19-11-2018 15:00,1542636302
+Barcelona - Ciutadella,--,2.1874,41.3864,12h,--,NA,12h,--,NA,NA,NA,NA,19-11-2018 15:00,1542636302
+Barcelona - Vall Hebron,Good,2.148,41.4261,14h,Good,53,14h,Good,22,14h,Good,14,19-11-2018 15:00,1542636302
+Barcelona - Palau Reial,Good,2.1151,41.3875,14h,Good,53,14h,Good,17,14h,Good,16,19-11-2018 15:00,1542636302
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,14h,Good,14,14h,Good,21,19-11-2018 15:00,1542636302
+Barcelona - Observ Fabra,Good,2.1239,41.4183,14h,Good,62,14h,Good,15,14h,Good,13,19-11-2018 15:00,1542636302
+Barcelona - Sants,--,2.1331,41.3788,NA,NA,NA,13h,--,NA,NA,NA,NA,19-11-2018 16:00,1542639902
+Barcelona - Eixample,Good,2.1538,41.3853,15h,Good,39,15h,Good,52,15h,Good,23,19-11-2018 16:00,1542639902
+Barcelona - Gràcia,Good,2.1534,41.3987,15h,Good,57,15h,Good,23,NA,NA,NA,19-11-2018 16:00,1542639902
+Barcelona - Ciutadella,Good,2.1874,41.3864,15h,Good,60,15h,Good,15,NA,NA,NA,19-11-2018 16:00,1542639902
+Barcelona - Vall Hebron,Good,2.148,41.4261,15h,Good,56,15h,Good,22,15h,Good,14,19-11-2018 16:00,1542639902
+Barcelona - Palau Reial,Good,2.1151,41.3875,15h,Good,56,15h,Good,14,15h,Good,16,19-11-2018 16:00,1542639902
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,15h,Good,14,15h,Good,21,19-11-2018 16:00,1542639902
+Barcelona - Observ Fabra,Good,2.1239,41.4183,15h,Good,64,15h,Good,13,15h,Good,14,19-11-2018 16:00,1542639902
+Barcelona - Sants,--,2.1331,41.3788,NA,NA,NA,14h,--,NA,NA,NA,NA,19-11-2018 17:00,1542643501
+Barcelona - Eixample,Good,2.1538,41.3853,16h,Good,33,16h,Good,54,16h,Good,24,19-11-2018 17:00,1542643501
+Barcelona - Gràcia,Good,2.1534,41.3987,16h,Good,48,16h,Good,30,NA,NA,NA,19-11-2018 17:00,1542643501
+Barcelona - Ciutadella,Good,2.1874,41.3864,16h,Good,59,16h,Good,14,NA,NA,NA,19-11-2018 17:00,1542643501
+Barcelona - Vall Hebron,Good,2.148,41.4261,16h,Good,54,16h,Good,19,16h,Good,15,19-11-2018 17:00,1542643501
+Barcelona - Palau Reial,Good,2.1151,41.3875,16h,Good,46,16h,Good,20,16h,Good,16,19-11-2018 17:00,1542643501
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,16h,Good,16,16h,Good,21,19-11-2018 17:00,1542643501
+Barcelona - Observ Fabra,Good,2.1239,41.4183,16h,Good,63,16h,Good,12,16h,Good,14,19-11-2018 17:00,1542643501
+Barcelona - Sants,--,2.1331,41.3788,NA,NA,NA,15h,--,NA,NA,NA,NA,19-11-2018 18:00,1542647102
+Barcelona - Eixample,Good,2.1538,41.3853,17h,Good,23,17h,Good,69,17h,Good,24,19-11-2018 18:00,1542647102
+Barcelona - Gràcia,Good,2.1534,41.3987,17h,Good,42,17h,Good,38,NA,NA,NA,19-11-2018 18:00,1542647102
+Barcelona - Ciutadella,Good,2.1874,41.3864,17h,Good,53,17h,Good,18,NA,NA,NA,19-11-2018 18:00,1542647102
+Barcelona - Vall Hebron,Good,2.148,41.4261,17h,Good,41,17h,Good,35,17h,Good,15,19-11-2018 18:00,1542647102
+Barcelona - Palau Reial,Good,2.1151,41.3875,17h,Good,38,17h,Good,31,17h,Good,16,19-11-2018 18:00,1542647102
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,17h,Good,22,17h,Good,21,19-11-2018 18:00,1542647102
+Barcelona - Observ Fabra,Good,2.1239,41.4183,17h,Good,64,17h,Good,12,17h,Good,14,19-11-2018 18:00,1542647102
+Barcelona - Sants,--,2.1331,41.3788,NA,NA,NA,16h,--,NA,NA,NA,NA,19-11-2018 19:00,1542650702
+Barcelona - Eixample,Good,2.1538,41.3853,18h,Good,18,18h,Good,72,18h,Good,25,19-11-2018 19:00,1542650702
+Barcelona - Gràcia,Good,2.1534,41.3987,18h,Good,36,18h,Good,45,NA,NA,NA,19-11-2018 19:00,1542650702
+Barcelona - Ciutadella,Good,2.1874,41.3864,18h,Good,47,18h,Good,25,NA,NA,NA,19-11-2018 19:00,1542650702
+Barcelona - Vall Hebron,Good,2.148,41.4261,18h,Good,35,18h,Good,40,18h,Good,15,19-11-2018 19:00,1542650702
+Barcelona - Palau Reial,Good,2.1151,41.3875,18h,Good,37,18h,Good,30,18h,Good,16,19-11-2018 19:00,1542650702
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,18h,Good,35,18h,Good,21,19-11-2018 19:00,1542650702
+Barcelona - Observ Fabra,Good,2.1239,41.4183,18h,Good,49,18h,Good,25,18h,Good,15,19-11-2018 19:00,1542650702
+Barcelona - Sants,--,2.1331,41.3788,NA,NA,NA,17h,--,NA,NA,NA,NA,19-11-2018 20:00,1542654302
+Barcelona - Eixample,Good,2.1538,41.3853,19h,Good,8,19h,Good,86,19h,Good,25,19-11-2018 20:00,1542654302
+Barcelona - Gràcia,Good,2.1534,41.3987,18h,Good,36,18h,Good,45,NA,NA,NA,19-11-2018 20:00,1542654302
+Barcelona - Ciutadella,Good,2.1874,41.3864,19h,Good,39,19h,Good,32,NA,NA,NA,19-11-2018 20:00,1542654302
+Barcelona - Vall Hebron,Good,2.148,41.4261,19h,Good,25,19h,Good,51,19h,Good,16,19-11-2018 20:00,1542654302
+Barcelona - Palau Reial,Good,2.1151,41.3875,19h,Good,33,19h,Good,35,19h,Good,16,19-11-2018 20:00,1542654302
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,19h,Good,42,19h,Good,21,19-11-2018 20:00,1542654302
+Barcelona - Observ Fabra,Good,2.1239,41.4183,19h,Good,58,19h,Good,22,19h,Good,15,19-11-2018 20:00,1542654302
+Barcelona - Sants,--,2.1331,41.3788,NA,NA,NA,18h,--,NA,NA,NA,NA,19-11-2018 21:00,1542657902
+Barcelona - Eixample,Good,2.1538,41.3853,20h,Good,9,20h,Good,79,20h,Good,25,19-11-2018 21:00,1542657902
+Barcelona - Gràcia,Good,2.1534,41.3987,18h,Good,36,18h,Good,45,NA,NA,NA,19-11-2018 21:00,1542657902
+Barcelona - Ciutadella,Good,2.1874,41.3864,20h,Good,21,20h,Good,58,NA,NA,NA,19-11-2018 21:00,1542657902
+Barcelona - Vall Hebron,Good,2.148,41.4261,20h,Good,18,20h,Good,56,20h,Good,16,19-11-2018 21:00,1542657902
+Barcelona - Palau Reial,Good,2.1151,41.3875,20h,Good,17,20h,Good,54,20h,Good,15,19-11-2018 21:00,1542657902
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,20h,Good,69,20h,Good,20,19-11-2018 21:00,1542657902
+Barcelona - Observ Fabra,Good,2.1239,41.4183,20h,Good,70,20h,Good,11,20h,Good,15,19-11-2018 21:00,1542657902
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,21h,Good,49,NA,NA,NA,19-11-2018 22:00,1542661501
+Barcelona - Eixample,Good,2.1538,41.3853,21h,Good,6,21h,Good,75,21h,Good,25,19-11-2018 22:00,1542661501
+Barcelona - Gràcia,--,2.1534,41.3987,19h,--,NA,19h,--,NA,NA,NA,NA,19-11-2018 22:00,1542661501
+Barcelona - Ciutadella,Good,2.1874,41.3864,21h,Good,5,21h,Good,75,NA,NA,NA,19-11-2018 22:00,1542661501
+Barcelona - Vall Hebron,Good,2.148,41.4261,21h,Good,22,21h,Good,49,21h,Good,16,19-11-2018 22:00,1542661501
+Barcelona - Palau Reial,Good,2.1151,41.3875,21h,Good,23,21h,Good,43,21h,Good,15,19-11-2018 22:00,1542661501
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,21h,Good,72,21h,Good,20,19-11-2018 22:00,1542661501
+Barcelona - Observ Fabra,Good,2.1239,41.4183,21h,Good,73,21h,Good,8,21h,Good,14,19-11-2018 22:00,1542661501
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,22h,Good,40,NA,NA,NA,19-11-2018 23:00,1542665102
+Barcelona - Eixample,Good,2.1538,41.3853,22h,Good,12,22h,Good,71,22h,Good,25,19-11-2018 23:00,1542665102
+Barcelona - Gràcia,--,2.1534,41.3987,20h,--,NA,20h,--,NA,NA,NA,NA,19-11-2018 23:00,1542665102
+Barcelona - Ciutadella,Good,2.1874,41.3864,22h,Good,5,22h,Good,69,NA,NA,NA,19-11-2018 23:00,1542665102
+Barcelona - Vall Hebron,Good,2.148,41.4261,22h,Good,19,22h,Good,55,22h,Good,16,19-11-2018 23:00,1542665102
+Barcelona - Palau Reial,Good,2.1151,41.3875,22h,Good,19,22h,Good,48,22h,Good,14,19-11-2018 23:00,1542665102
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,22h,Good,71,22h,Good,20,19-11-2018 23:00,1542665102
+Barcelona - Observ Fabra,Good,2.1239,41.4183,22h,Good,74,22h,Good,9,22h,Good,14,19-11-2018 23:00,1542665102
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,23h,Good,42,NA,NA,NA,20-11-2018 00:00,1542668702
+Barcelona - Eixample,Good,2.1538,41.3853,23h,Good,17,23h,Good,56,23h,Good,24,20-11-2018 00:00,1542668702
+Barcelona - Gràcia,--,2.1534,41.3987,NA,NA,NA,NA,NA,NA,NA,NA,NA,20-11-2018 00:00,1542668702
+Barcelona - Ciutadella,Good,2.1874,41.3864,23h,Good,10,23h,Good,64,NA,NA,NA,20-11-2018 00:00,1542668702
+Barcelona - Vall Hebron,Good,2.148,41.4261,23h,Good,26,23h,Good,40,23h,Good,16,20-11-2018 00:00,1542668702
+Barcelona - Palau Reial,Good,2.1151,41.3875,23h,Good,24,23h,Good,35,23h,Good,14,20-11-2018 00:00,1542668702
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,23h,Good,64,23h,Good,19,20-11-2018 00:00,1542668702
+Barcelona - Observ Fabra,Good,2.1239,41.4183,23h,Good,72,23h,Good,10,23h,Good,14,20-11-2018 00:00,1542668702
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,0h,Good,44,NA,NA,NA,20-11-2018 01:00,1542672302
+Barcelona - Eixample,Good,2.1538,41.3853,0h,Good,7,0h,Good,61,1h,Good,24,20-11-2018 01:00,1542672302
+Barcelona - Gràcia,Good,2.1534,41.3987,0h,Good,17,0h,Good,49,NA,NA,NA,20-11-2018 01:00,1542672302
+Barcelona - Ciutadella,Good,2.1874,41.3864,0h,Good,7,0h,Good,59,NA,NA,NA,20-11-2018 01:00,1542672302
+Barcelona - Vall Hebron,Good,2.148,41.4261,0h,Good,29,0h,Good,32,0h,Good,16,20-11-2018 01:00,1542672302
+Barcelona - Palau Reial,Good,2.1151,41.3875,0h,Good,12,0h,Good,39,0h,Good,13,20-11-2018 01:00,1542672302
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,0h,Good,55,0h,Good,19,20-11-2018 01:00,1542672302
+Barcelona - Observ Fabra,Good,2.1239,41.4183,0h,Good,67,0h,Good,12,0h,Good,13,20-11-2018 01:00,1542672302
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,1h,Good,45,NA,NA,NA,20-11-2018 02:00,1542675902
+Barcelona - Eixample,Good,2.1538,41.3853,1h,Good,8,1h,Good,58,1h,Good,24,20-11-2018 02:00,1542675902
+Barcelona - Gràcia,Good,2.1534,41.3987,1h,Good,16,1h,Good,48,NA,NA,NA,20-11-2018 02:00,1542675902
+Barcelona - Ciutadella,Good,2.1874,41.3864,1h,Good,6,1h,Good,56,NA,NA,NA,20-11-2018 02:00,1542675902
+Barcelona - Vall Hebron,Good,2.148,41.4261,1h,Good,32,1h,Good,26,1h,Good,16,20-11-2018 02:00,1542675902
+Barcelona - Palau Reial,Good,2.1151,41.3875,1h,Good,19,1h,Good,25,1h,Good,13,20-11-2018 02:00,1542675902
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,1h,Good,56,1h,Good,19,20-11-2018 02:00,1542675902
+Barcelona - Observ Fabra,Good,2.1239,41.4183,1h,Good,68,1h,Good,10,2h,Good,13,20-11-2018 02:00,1542675902
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,2h,Good,25,NA,NA,NA,20-11-2018 03:00,1542679501
+Barcelona - Eixample,Good,2.1538,41.3853,2h,Good,21,2h,Good,35,2h,Good,24,20-11-2018 03:00,1542679501
+Barcelona - Gràcia,Good,2.1534,41.3987,2h,Good,34,2h,Good,22,NA,NA,NA,20-11-2018 03:00,1542679501
+Barcelona - Ciutadella,Good,2.1874,41.3864,2h,Good,28,2h,Good,27,NA,NA,NA,20-11-2018 03:00,1542679501
+Barcelona - Vall Hebron,Good,2.148,41.4261,2h,Good,27,2h,Good,26,2h,Good,16,20-11-2018 03:00,1542679501
+Barcelona - Palau Reial,Good,2.1151,41.3875,2h,Good,24,2h,Good,21,2h,Good,12,20-11-2018 03:00,1542679501
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,2h,Good,28,2h,Good,19,20-11-2018 03:00,1542679501
+Barcelona - Observ Fabra,Good,2.1239,41.4183,2h,Good,60,2h,Good,12,2h,Good,13,20-11-2018 03:00,1542679501
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,3h,Good,30,NA,NA,NA,20-11-2018 04:00,1542683102
+Barcelona - Eixample,Good,2.1538,41.3853,3h,Good,21,3h,Good,35,3h,Good,23,20-11-2018 04:00,1542683102
+Barcelona - Gràcia,Good,2.1534,41.3987,3h,Good,42,3h,Good,17,NA,NA,NA,20-11-2018 04:00,1542683102
+Barcelona - Ciutadella,Good,2.1874,41.3864,3h,Good,26,3h,Good,24,NA,NA,NA,20-11-2018 04:00,1542683102
+Barcelona - Vall Hebron,Good,2.148,41.4261,3h,Good,53,3h,Good,10,3h,Good,16,20-11-2018 04:00,1542683102
+Barcelona - Palau Reial,Good,2.1151,41.3875,3h,Good,22,3h,Good,17,3h,Good,12,20-11-2018 04:00,1542683102
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,3h,Good,30,3h,Good,18,20-11-2018 04:00,1542683102
+Barcelona - Observ Fabra,Good,2.1239,41.4183,3h,Good,73,3h,Good,6,3h,Good,13,20-11-2018 04:00,1542683102
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,4h,Good,28,NA,NA,NA,20-11-2018 05:00,1542686702
+Barcelona - Eixample,Good,2.1538,41.3853,4h,Good,26,4h,Good,30,4h,Good,23,20-11-2018 05:00,1542686702
+Barcelona - Gràcia,Good,2.1534,41.3987,4h,Good,44,4h,Good,15,NA,NA,NA,20-11-2018 05:00,1542686702
+Barcelona - Ciutadella,Good,2.1874,41.3864,4h,Good,27,4h,Good,24,NA,NA,NA,20-11-2018 05:00,1542686702
+Barcelona - Vall Hebron,Good,2.148,41.4261,4h,Good,51,4h,Good,9,4h,Good,16,20-11-2018 05:00,1542686702
+Barcelona - Palau Reial,Good,2.1151,41.3875,4h,Good,25,4h,Good,14,4h,Good,12,20-11-2018 05:00,1542686702
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,4h,Good,34,4h,Good,18,20-11-2018 05:00,1542686702
+Barcelona - Observ Fabra,Good,2.1239,41.4183,4h,Good,69,4h,Good,7,4h,Good,12,20-11-2018 05:00,1542686702
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,5h,Good,25,NA,NA,NA,20-11-2018 06:00,1542690301
+Barcelona - Eixample,Good,2.1538,41.3853,5h,Good,17,5h,Good,40,5h,Good,23,20-11-2018 06:00,1542690301
+Barcelona - Gràcia,Good,2.1534,41.3987,5h,Good,32,5h,Good,26,NA,NA,NA,20-11-2018 06:00,1542690301
+Barcelona - Ciutadella,Good,2.1874,41.3864,5h,Good,15,5h,Good,32,NA,NA,NA,20-11-2018 06:00,1542690301
+Barcelona - Vall Hebron,Good,2.148,41.4261,5h,Good,22,5h,Good,31,5h,Good,16,20-11-2018 06:00,1542690301
+Barcelona - Palau Reial,Good,2.1151,41.3875,5h,Good,21,5h,Good,13,5h,Good,12,20-11-2018 06:00,1542690301
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,5h,Good,38,5h,Good,18,20-11-2018 06:00,1542690301
+Barcelona - Observ Fabra,Good,2.1239,41.4183,5h,Good,73,5h,Good,8,5h,Good,12,20-11-2018 06:00,1542690301
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,6h,Good,32,NA,NA,NA,20-11-2018 07:00,1542693902
+Barcelona - Eixample,Good,2.1538,41.3853,6h,Good,14,6h,Good,48,6h,Good,23,20-11-2018 07:00,1542693902
+Barcelona - Gràcia,Good,2.1534,41.3987,6h,Good,30,6h,Good,30,NA,NA,NA,20-11-2018 07:00,1542693902
+Barcelona - Ciutadella,Good,2.1874,41.3864,6h,Good,11,6h,Good,39,NA,NA,NA,20-11-2018 07:00,1542693902
+Barcelona - Vall Hebron,Good,2.148,41.4261,6h,Good,9,6h,Good,45,6h,Good,15,20-11-2018 07:00,1542693902
+Barcelona - Palau Reial,Good,2.1151,41.3875,6h,Good,27,6h,Good,16,6h,Good,11,20-11-2018 07:00,1542693902
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,6h,Good,45,6h,Good,18,20-11-2018 07:00,1542693902
+Barcelona - Observ Fabra,Good,2.1239,41.4183,6h,Good,68,6h,Good,11,6h,Good,12,20-11-2018 07:00,1542693902
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,7h,Good,42,NA,NA,NA,20-11-2018 08:00,1542697502
+Barcelona - Eixample,Good,2.1538,41.3853,7h,Good,8,7h,Good,62,7h,Good,23,20-11-2018 08:00,1542697502
+Barcelona - Gràcia,Good,2.1534,41.3987,7h,Good,23,7h,Good,42,NA,NA,NA,20-11-2018 08:00,1542697502
+Barcelona - Ciutadella,Good,2.1874,41.3864,7h,Good,6,7h,Good,46,NA,NA,NA,20-11-2018 08:00,1542697502
+Barcelona - Vall Hebron,Good,2.148,41.4261,7h,Good,11,7h,Good,52,7h,Good,15,20-11-2018 08:00,1542697502
+Barcelona - Palau Reial,Good,2.1151,41.3875,7h,Good,17,7h,Good,28,7h,Good,11,20-11-2018 08:00,1542697502
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,7h,Good,53,7h,Good,18,20-11-2018 08:00,1542697502
+Barcelona - Observ Fabra,Good,2.1239,41.4183,7h,Good,71,7h,Good,5,7h,Good,12,20-11-2018 08:00,1542697502
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,8h,Good,61,NA,NA,NA,20-11-2018 09:00,1542701101
+Barcelona - Eixample,Good,2.1538,41.3853,8h,Good,2,8h,Good,83,8h,Good,23,20-11-2018 09:00,1542701101
+Barcelona - Gràcia,Good,2.1534,41.3987,8h,Good,6,8h,Good,65,NA,NA,NA,20-11-2018 09:00,1542701101
+Barcelona - Ciutadella,Good,2.1874,41.3864,8h,Good,2,8h,Good,59,NA,NA,NA,20-11-2018 09:00,1542701101
+Barcelona - Vall Hebron,Good,2.148,41.4261,8h,Good,7,8h,Good,49,8h,Good,15,20-11-2018 09:00,1542701101
+Barcelona - Palau Reial,Good,2.1151,41.3875,8h,Good,3,8h,Good,49,8h,Good,11,20-11-2018 09:00,1542701101
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,8h,Good,56,8h,Good,18,20-11-2018 09:00,1542701101
+Barcelona - Observ Fabra,Good,2.1239,41.4183,8h,Good,62,8h,Good,12,8h,Good,12,20-11-2018 09:00,1542701101
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,9h,Good,60,NA,NA,NA,20-11-2018 10:00,1542704702
+Barcelona - Eixample,Moderate,2.1538,41.3853,9h,Good,2,9h,Moderate,96,9h,Good,23,20-11-2018 10:00,1542704702
+Barcelona - Gràcia,Good,2.1534,41.3987,9h,Good,3,9h,Good,72,NA,NA,NA,20-11-2018 10:00,1542704702
+Barcelona - Ciutadella,Good,2.1874,41.3864,9h,Good,2,9h,Good,59,NA,NA,NA,20-11-2018 10:00,1542704702
+Barcelona - Vall Hebron,Good,2.148,41.4261,9h,Good,3,9h,Good,56,9h,Good,15,20-11-2018 10:00,1542704702
+Barcelona - Palau Reial,Good,2.1151,41.3875,9h,Good,1,9h,Good,60,9h,Good,11,20-11-2018 10:00,1542704702
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,9h,Good,60,9h,Good,18,20-11-2018 10:00,1542704702
+Barcelona - Observ Fabra,Good,2.1239,41.4183,9h,Good,62,9h,Good,12,9h,Good,11,20-11-2018 10:00,1542704702
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,10h,Good,60,NA,NA,NA,20-11-2018 11:00,1542708302
+Barcelona - Eixample,Good,2.1538,41.3853,10h,Good,8,10h,Good,77,10h,Good,23,20-11-2018 11:00,1542708302
+Barcelona - Gràcia,Good,2.1534,41.3987,9h,Good,3,9h,Good,72,NA,NA,NA,20-11-2018 11:00,1542708302
+Barcelona - Ciutadella,Good,2.1874,41.3864,10h,Good,5,10h,Good,60,NA,NA,NA,20-11-2018 11:00,1542708302
+Barcelona - Vall Hebron,Good,2.148,41.4261,10h,Good,17,10h,Good,39,10h,Good,15,20-11-2018 11:00,1542708302
+Barcelona - Palau Reial,Good,2.1151,41.3875,10h,Good,9,10h,Good,59,10h,Good,11,20-11-2018 11:00,1542708302
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,10h,Good,59,10h,Good,19,20-11-2018 11:00,1542708302
+Barcelona - Observ Fabra,Good,2.1239,41.4183,10h,Good,56,10h,Good,13,10h,Good,11,20-11-2018 11:00,1542708302
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,11h,Good,46,NA,NA,NA,20-11-2018 12:00,1542711902
+Barcelona - Eixample,Good,2.1538,41.3853,11h,Good,11,11h,Good,71,11h,Good,23,20-11-2018 12:00,1542711902
+Barcelona - Gràcia,Good,2.1534,41.3987,9h,Good,3,9h,Good,72,NA,NA,NA,20-11-2018 12:00,1542711902
+Barcelona - Ciutadella,Good,2.1874,41.3864,11h,Good,7,11h,Good,57,NA,NA,NA,20-11-2018 12:00,1542711902
+Barcelona - Vall Hebron,Good,2.148,41.4261,11h,Good,37,11h,Good,26,11h,Good,16,20-11-2018 12:00,1542711902
+Barcelona - Palau Reial,Good,2.1151,41.3875,11h,Good,25,11h,Good,37,11h,Good,11,20-11-2018 12:00,1542711902
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,11h,Good,60,11h,Good,19,20-11-2018 12:00,1542711902
+Barcelona - Observ Fabra,Good,2.1239,41.4183,11h,Good,54,11h,Good,17,11h,Good,9,20-11-2018 12:00,1542711902
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,11h,Good,46,NA,NA,NA,20-11-2018 13:00,1542715502
+Barcelona - Eixample,Good,2.1538,41.3853,12h,Good,9,12h,Good,80,12h,Good,23,20-11-2018 13:00,1542715502
+Barcelona - Gràcia,--,2.1534,41.3987,10h,--,NA,10h,--,NA,NA,NA,NA,20-11-2018 13:00,1542715502
+Barcelona - Ciutadella,Good,2.1874,41.3864,12h,Good,12,12h,Good,54,NA,NA,NA,20-11-2018 13:00,1542715502
+Barcelona - Vall Hebron,Good,2.148,41.4261,12h,Good,32,12h,Good,34,12h,Good,16,20-11-2018 13:00,1542715502
+Barcelona - Palau Reial,Good,2.1151,41.3875,12h,Good,14,12h,Good,54,13h,Good,11,20-11-2018 13:00,1542715502
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,12h,Good,61,13h,Good,19,20-11-2018 13:00,1542715502
+Barcelona - Observ Fabra,Good,2.1239,41.4183,12h,Good,36,12h,Good,33,12h,Good,9,20-11-2018 13:00,1542715502
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,12h,Good,53,NA,NA,NA,20-11-2018 14:00,1542719101
+Barcelona - Eixample,Good,2.1538,41.3853,12h,Good,9,12h,Good,80,13h,Good,23,20-11-2018 14:00,1542719101
+Barcelona - Gràcia,--,2.1534,41.3987,11h,--,NA,11h,--,NA,NA,NA,NA,20-11-2018 14:00,1542719101
+Barcelona - Ciutadella,Good,2.1874,41.3864,13h,Good,9,13h,Good,60,NA,NA,NA,20-11-2018 14:00,1542719101
+Barcelona - Vall Hebron,Good,2.148,41.4261,13h,Good,22,13h,Good,39,13h,Good,15,20-11-2018 14:00,1542719101
+Barcelona - Palau Reial,Good,2.1151,41.3875,13h,Good,16,13h,Good,53,13h,Good,12,20-11-2018 14:00,1542719101
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,13h,Good,67,13h,Good,20,20-11-2018 14:00,1542719101
+Barcelona - Observ Fabra,Good,2.1239,41.4183,13h,Good,31,13h,Good,36,13h,Good,10,20-11-2018 14:00,1542719101
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,14h,Good,52,NA,NA,NA,20-11-2018 15:00,1542722702
+Barcelona - Eixample,Good,2.1538,41.3853,12h,Good,9,12h,Good,80,14h,Good,23,20-11-2018 15:00,1542722702
+Barcelona - Gràcia,--,2.1534,41.3987,12h,--,NA,12h,--,NA,NA,NA,NA,20-11-2018 15:00,1542722702
+Barcelona - Ciutadella,Good,2.1874,41.3864,14h,Good,15,14h,Good,55,NA,NA,NA,20-11-2018 15:00,1542722702
+Barcelona - Vall Hebron,Good,2.148,41.4261,14h,Good,17,14h,Good,50,14h,Good,15,20-11-2018 15:00,1542722702
+Barcelona - Palau Reial,Good,2.1151,41.3875,14h,Good,19,14h,Good,48,14h,Good,12,20-11-2018 15:00,1542722702
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,14h,Good,64,14h,Good,21,20-11-2018 15:00,1542722702
+Barcelona - Observ Fabra,Good,2.1239,41.4183,14h,Good,39,14h,Good,36,14h,Good,10,20-11-2018 15:00,1542722702
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,15h,Good,53,NA,NA,NA,20-11-2018 16:00,1542726302
+Barcelona - Eixample,Good,2.1538,41.3853,13h,--,NA,13h,--,NA,15h,Good,23,20-11-2018 16:00,1542726302
+Barcelona - Gràcia,Good,2.1534,41.3987,15h,Good,17,15h,Good,63,NA,NA,NA,20-11-2018 16:00,1542726302
+Barcelona - Ciutadella,Good,2.1874,41.3864,15h,Good,36,15h,Good,32,NA,NA,NA,20-11-2018 16:00,1542726302
+Barcelona - Vall Hebron,Good,2.148,41.4261,15h,Good,28,15h,Good,43,15h,Good,16,20-11-2018 16:00,1542726302
+Barcelona - Palau Reial,Good,2.1151,41.3875,15h,Good,19,14h,Good,48,15h,Good,12,20-11-2018 16:00,1542726302
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,15h,Good,33,15h,Good,21,20-11-2018 16:00,1542726302
+Barcelona - Observ Fabra,Good,2.1239,41.4183,15h,Good,40,15h,Good,34,15h,Good,10,20-11-2018 16:00,1542726302
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,16h,Good,32,NA,NA,NA,20-11-2018 17:00,1542729901
+Barcelona - Eixample,Good,2.1538,41.3853,14h,--,NA,14h,--,NA,16h,Good,23,20-11-2018 17:00,1542729901
+Barcelona - Gràcia,Good,2.1534,41.3987,16h,Good,33,16h,Good,51,NA,NA,NA,20-11-2018 17:00,1542729901
+Barcelona - Ciutadella,Good,2.1874,41.3864,16h,Good,60,16h,Good,17,NA,NA,NA,20-11-2018 17:00,1542729901
+Barcelona - Vall Hebron,Good,2.148,41.4261,16h,Good,32,16h,Good,45,16h,Good,16,20-11-2018 17:00,1542729901
+Barcelona - Palau Reial,Good,2.1151,41.3875,15h,Good,19,14h,Good,48,16h,Good,13,20-11-2018 17:00,1542729901
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,16h,Good,21,16h,Good,21,20-11-2018 17:00,1542729901
+Barcelona - Observ Fabra,Good,2.1239,41.4183,16h,Good,31,16h,Good,43,16h,Good,10,20-11-2018 17:00,1542729901
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,17h,Good,38,NA,NA,NA,20-11-2018 18:00,1542733502
+Barcelona - Eixample,Good,2.1538,41.3853,15h,--,NA,15h,--,NA,17h,Good,22,20-11-2018 18:00,1542733502
+Barcelona - Gràcia,Good,2.1534,41.3987,16h,Good,33,16h,Good,51,NA,NA,NA,20-11-2018 18:00,1542733502
+Barcelona - Ciutadella,Good,2.1874,41.3864,17h,Good,58,17h,Good,13,NA,NA,NA,20-11-2018 18:00,1542733502
+Barcelona - Vall Hebron,Good,2.148,41.4261,17h,Good,39,17h,Good,40,17h,Good,16,20-11-2018 18:00,1542733502
+Barcelona - Palau Reial,Good,2.1151,41.3875,17h,Good,26,17h,Good,44,17h,Good,13,20-11-2018 18:00,1542733502
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,17h,Good,23,17h,Good,21,20-11-2018 18:00,1542733502
+Barcelona - Observ Fabra,Good,2.1239,41.4183,17h,Good,52,17h,Good,27,17h,Good,10,20-11-2018 18:00,1542733502
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,18h,Good,58,NA,NA,NA,20-11-2018 19:00,1542737101
+Barcelona - Eixample,Good,2.1538,41.3853,18h,Good,8,18h,Good,85,18h,Good,24,20-11-2018 19:00,1542737101
+Barcelona - Gràcia,Good,2.1534,41.3987,16h,Good,33,16h,Good,51,NA,NA,NA,20-11-2018 19:00,1542737101
+Barcelona - Ciutadella,Good,2.1874,41.3864,18h,Good,32,18h,Good,27,NA,NA,NA,20-11-2018 19:00,1542737101
+Barcelona - Vall Hebron,Good,2.148,41.4261,18h,Good,3,18h,Good,64,18h,Good,16,20-11-2018 19:00,1542737101
+Barcelona - Palau Reial,Good,2.1151,41.3875,18h,Good,5,18h,Good,67,18h,Good,13,20-11-2018 19:00,1542737101
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,18h,Good,54,18h,Good,21,20-11-2018 19:00,1542737101
+Barcelona - Observ Fabra,Good,2.1239,41.4183,18h,Good,43,18h,Good,38,18h,Good,10,20-11-2018 19:00,1542737101
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,19h,Good,74,NA,NA,NA,20-11-2018 20:00,1542740702
+Barcelona - Eixample,Moderate,2.1538,41.3853,19h,Good,2,19h,Moderate,100,19h,Good,25,20-11-2018 20:00,1542740702
+Barcelona - Gràcia,--,2.1534,41.3987,17h,--,NA,17h,--,NA,NA,NA,NA,20-11-2018 20:00,1542740702
+Barcelona - Ciutadella,Good,2.1874,41.3864,19h,Good,7,19h,Good,48,NA,NA,NA,20-11-2018 20:00,1542740702
+Barcelona - Vall Hebron,Good,2.148,41.4261,19h,Good,2,19h,Good,67,19h,Good,16,20-11-2018 20:00,1542740702
+Barcelona - Palau Reial,Good,2.1151,41.3875,19h,Good,1,19h,Good,70,19h,Good,14,20-11-2018 20:00,1542740702
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,19h,Good,77,19h,Good,21,20-11-2018 20:00,1542740702
+Barcelona - Observ Fabra,Good,2.1239,41.4183,19h,Good,36,19h,Good,45,19h,Good,11,20-11-2018 20:00,1542740702
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,20h,Good,75,NA,NA,NA,20-11-2018 21:00,1542744302
+Barcelona - Eixample,Good,2.1538,41.3853,20h,Good,1,20h,Good,87,20h,Good,25,20-11-2018 21:00,1542744302
+Barcelona - Gràcia,--,2.1534,41.3987,18h,--,NA,18h,--,NA,NA,NA,NA,20-11-2018 21:00,1542744302
+Barcelona - Ciutadella,Good,2.1874,41.3864,20h,Good,2,20h,Good,64,NA,NA,NA,20-11-2018 21:00,1542744302
+Barcelona - Vall Hebron,Good,2.148,41.4261,20h,Good,2,20h,Good,68,20h,Good,17,20-11-2018 21:00,1542744302
+Barcelona - Palau Reial,Good,2.1151,41.3875,20h,Good,1,20h,Good,70,20h,Good,14,20-11-2018 21:00,1542744302
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,20h,Good,81,20h,Good,22,20-11-2018 21:00,1542744302
+Barcelona - Observ Fabra,Good,2.1239,41.4183,20h,Good,46,20h,Good,32,20h,Good,11,20-11-2018 21:00,1542744302
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,21h,Good,33,NA,NA,NA,20-11-2018 22:00,1542747902
+Barcelona - Eixample,Good,2.1538,41.3853,21h,Good,11,21h,Good,78,21h,Good,25,20-11-2018 22:00,1542747902
+Barcelona - Gràcia,Good,2.1534,41.3987,21h,Good,37,21h,Good,42,NA,NA,NA,20-11-2018 22:00,1542747902
+Barcelona - Ciutadella,Good,2.1874,41.3864,21h,Good,29,21h,Good,49,NA,NA,NA,20-11-2018 22:00,1542747902
+Barcelona - Vall Hebron,Good,2.148,41.4261,21h,Good,35,21h,Good,36,21h,Good,17,20-11-2018 22:00,1542747902
+Barcelona - Palau Reial,Good,2.1151,41.3875,21h,Good,47,21h,Good,23,21h,Good,14,20-11-2018 22:00,1542747902
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,21h,Good,51,21h,Good,22,20-11-2018 22:00,1542747902
+Barcelona - Observ Fabra,Good,2.1239,41.4183,21h,Good,65,21h,Good,16,22h,Good,11,20-11-2018 22:00,1542747902
+Barcelona - Sants,Good,2.1331,41.3788,NA,NA,NA,22h,Good,56,NA,NA,NA,20-11-2018 23:00,1542751502
+Barcelona - Eixample,Good,2.1538,41.3853,22h,Good,3,22h,Good,86,22h,Good,24,20-11-2018 23:00,1542751502
+Barcelona - Gràcia,Good,2.1534,41.3987,22h,Good,12,22h,Good,73,NA,NA,NA,20-11-2018 23:00,1542751502
+Barcelona - Ciutadella,Good,2.1874,41.3864,22h,Good,19,22h,Good,52,NA,NA,NA,20-11-2018 23:00,1542751502
+Barcelona - Vall Hebron,Good,2.148,41.4261,22h,Good,37,22h,Good,37,22h,Good,17,20-11-2018 23:00,1542751502
+Barcelona - Palau Reial,Good,2.1151,41.3875,22h,Good,28,22h,Good,40,22h,Good,14,20-11-2018 23:00,1542751502
+Barcelona - Poblenou,Good,2.2045,41.4039,NA,NA,NA,22h,Good,55,22h,Good,21,20-11-2018 23:00,1542751502
+Barcelona - Observ Fabra,Good,2.1239,41.4183,22h,Good,90,22h,Good,4,22h,Good,10,20-11-2018 23:00,1542751502

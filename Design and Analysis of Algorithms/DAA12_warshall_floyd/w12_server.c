@@ -1,0 +1,42 @@
+// Sevrer file for session12_WarshallsFloyds.h
+
+#include "session12_WarshallsFloyds.h"
+
+// Warshall's Algorithm
+void transitive_closure_warshalls(int **g, int n)
+{
+	int i, j, k;
+	for(k = 0; k < n; k++)
+	{
+		for(i = 0; i < n; i++)
+		{
+			for(j = 0; j < n; j++)
+			{
+				if(g[i][j] != 1)
+				{
+					g[i][j] = g[i][k] * g[k][j];
+				}
+			}
+		}
+	}
+}
+
+// Floyd's Algorithm
+void all_pairs_shortest_path_distances_floyds(int **g, int n)
+{
+	int i, j, k, min;
+	for(i = 0; i < n; i++) 
+	{
+		for(j = 0; j < n; j++)
+		{
+			for(k = 0; k < n; k++)
+			{
+				min = g[i][k] + g[k][j];
+				if(min < g[i][j])
+				{
+					g[i][j] = min;
+				}
+			}
+		}
+	}
+}

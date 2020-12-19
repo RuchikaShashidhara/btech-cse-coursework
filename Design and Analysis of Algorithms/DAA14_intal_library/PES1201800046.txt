@@ -1,0 +1,65 @@
+DAA Mini Project Report - PES1201800046
+
+1) Introduction
+
+        Intal is a non-negative integer of arbitary length. The intal is stored as a null-terminated ASCII characters string of decimal digits '0' through '9' that are stored in big-endian style. The implementation of the intal library in C is for intals which don't exceed 1000 digits. The intal library consists of various functions to compute the sum, difference, product, comparision, power, sorting, searching, etc. 
+        
+        Integer data type in C is used to store numeric values and the size of the int data type depends on the CPU that we use - 2, 4, or 8 bytes. Integers in general are zero, positive and neagtive numbers. Intal is non-negative interger (zero and positive integers) which has a maximum of 1000 digits.
+        
+        Applications of intal: We can perform mathematical operations on integers which can have any arbitary length even though the same opeartions cannot be used inside a long long int data type. This also can reduce the space allocated by the memory for such data types as well. Storing intals in strings are efficient in public-key cryptography and socket programming.
+        
+
+2) Approach
+
+        intal_add: We traverse from both end of the string and compute the sum of the current digits and carry and store it in res. Then, we add the remaining digits of the larger number and store it in res. If a carry still remains, we add the carry with res and store it in answer, We finally copy the res to the answer, free res and return answer which is the sum of intal1 and intal2. [Time complexity: O(n1 + n2) where n1 and n2 are lengths of intal1 and intal2]   
+         
+        intal_compare: We first check if the lengths of intal1(n1) and intal2(n2) are unequal. If n1 > n2, 1 is returned. If n2 > n1, -1 is returned. If n1 and n2 are equal, we check if the digits of each intal1 and intal2. If a digit of intal1 is greater, 1 is returned. If a digit of intal2 is greater, -1 is returned. If all the digits of intal1 and intal2 are equal, 0 is returned. [Time complexity: O(n1)]
+        
+        intal_diff: We take the larger number of intal1 and intal2 and subtract it with the smaller number. We traverse from the end of both strings and compute the differnce of the current digits and carry and store it in res. We then subtract the remaining digits of the larger number and we also remove the preceeding 0's and store it in answer. We finally copy res to the answer, free res and return answer which is the absolute value of the differnce of intal1 and intal2. [Time complexity: O(n1 + n2) where n1 and n2 are lengths of intal1 and intal2]
+        
+        intal_mulitply: We start the outer loop from right to left of intal1 and inner loop from right to left of intal2. We multiply the current digit of intal1 and it to each previously stored digit at current position of product. We add the carry in the next iteration after shifting to left after multiplication with intal2. If a carry still remains, we add the carry with product and store it in res, We finally copy res, free product and after adding the remaining sum and product return sum, which is the product of intal1 and intal2. [Time complexity: O(n1 * n2) where n1 and n2 are lengths of intal1 and intal2] 
+        
+        intal_mod: We recursively find the intal1 mod intal2 by repeated subtractions of intal1 - intal2. We check if the res is greater than intal1. If intal_compare returns 1, we remove a '0' and then subtract intal2 from intal1. We again initialize intal2 and intal1 and perform the iteration until intal1 < intal2. When this occurs, intal1 will be in the range of 0 to intal2 - 1, so it is finally returned. [Time complexity = O(logn1) intal_diff where n1 is length of intal1] 
+        
+        intal_pow: We use the divide and conquer recursive approach in parts to find a^n = (a^n/2)*(a^n/2), if n is even or a^n = (a^(n-1)/2)*(a^(n+1)/2), if n is odd. By iterating through n and evaluating the conditions as mentioned above, we repeatedly multiply the parts and store it in answer until we get the base case of '1'. We finally return answer the intal number = intal1 ^ intal2. [Time complexity = O(logn) intal_multiply]
+        
+        intal_gcd: We use the Euclid's algorithm in a recursive approach to calculate the gcd(intal1, intal2) = gcd(intal2, intal_mod(intal1, intal2)). This is calculated repeatedly until the base case intal2 = 0  and is stored in answer. We finally return answer that returns the intal for gcd(intal1, intal2).
+        
+        intal_fibonacci: We calculate the nth fibonacci number by using Fn = Fn-1 + Fn-2 i.e. num3 = num1 + num2, starting with the base cases of 1. We then iteratively calculate intal_add(num1, num2), store the previous num1 and num2 to get the next num3 till the nth iteration. We free num1 and finally return num3 which is the nth fibonacii number. [Time complexity = O(n)]
+        
+        intal_factorial: We iterate from n to 1 and find intal_factorial(n-1) by multiplying each digit of n with the new answer using intal_multiply to get answer. We free new answer and return answer which is the factorial of n. [Time complexity = O(n) intal_multiply]
+        
+        intal_bincoeff: We calculate C(n,k) using a Dynammic Programming approach by computing a temporary array table that stores the value of the common subproblems of other C(n,k) in a bottom up manner. The array table is filled up by using the previously stored values of C(n,k) that was calculated using intal_add. We finally copy the intal inside table[k] to answer, free table and return answer which is the Binomial Coefficient of C(n,k). [Time complexity = O(n*k) intal_add]
+        
+        intal_max: We first set the first set the max_index as 0 and iterate through the entire array arr while comapring the value of arr's max_index. We update the max_index with the new index if intal_compare returns 1, as the new index will be larger. We finally return max_index which is the offset of the largest intal in arr. [Time complexity = O(n)]
+        
+        intal_min: We first set the first set the min_index as 0 and iterate through the entire array arr while comapring the value of arr's min_index. We update the min_index with the new index if intal_compare returns -1, as the new index will be smaller. We finally return min_index which is the offset of the smallest intal in arr. [Time complexity = O(n)]
+        
+        intal_search: We use an iterative linear approach to find the first occurence of the key intal in the array arr. We iterate through arr[0] till arr[n-1] and compare the key with arr[i]. If intal_compare returns 0, the key intal and the intal present at arr[i] are equal, and we return i which is the offset of the first occurence of key intal. Even after the iterations, if none of the compares return 0, key intal is not present in the array and -1 is returned. [Time complexity = O(n)]
+        
+        intal_binsearch: We use an iterative binary search to find the first occurence of the key in the sorted array arr. We iterate until the left index is greater than the right index. Inside the iteration loop, if the we compare the value of arr's mid_index and key intal. If it returns -1, key intal is greater than the mid element and we perfom the iteration again with the larger(right) part of the array. If it returns 1, key intal is smaller than the mid element and we again perform the iteration with the smaller(left) part of the array. If it returns 0, the key intal is present at mid_index and it is returned as it iss the first occurence of the key intal. Even after the iteration if mid_index is not retuned, the key intal is not present in arr and -1 is returned. [Time complexity = O(logn)]
+        
+        intal_sort: To implement this function, 2 functions intal_merge and intal_merge_sort are defined. Intal_merge merges given arrays to a single sorted array in an in-place approach. Intal_merge_sort sorts the left half part and right half part and then calls intal_merge to merge both the parts. This fuctions calls itself recursively until left_index > right_index. Intal_sort now calls the intal_merge_sort function with the parameters arr, 0, n-1 to sort the array arr. [Time complexity = O(nlogn)]
+        
+        coin_row_problem: We calculate the sum according to the constraint using a Dynamic Programming approach. We iterate through the array arr and maintain two sums - sum_prev_included = max sum including the previous element and sum_prev_excluded = max sum excluding the previous element. sum_prev_excluded = max(sum_prev_included, sum_prev_excluded) and sum_prev_included = sum_prev_excluded + current element. After the itareation we return the max(sum_prev_included, sum_prev_excluded). [Time complexity = O(n) intal_add]                  
+                  
+
+3) Future work
+
+        More functionalities you think that can be included in the intal library:
+        1) Division of 2 intals
+        2) Multiplication of 2 intals using Karatsuba algorithm
+        3) Bitwise operations of intals - left shift, right shift, AND, OR, NOT, XOR, etc.
+        4) Permutations and Combinations of intals
+        5) Factors of intal and Nth prime intal number 
+        6) The above functionalities as an integer where ever applicable and not a non-negative integer.            
+        
+        If there were no restrictions to handle integers of arbitrary length(positive and negative integers), the implementation would be as follows:
+        Storing the intal inside a structure which would contain:
+                1) intal as a char array
+                2) num of digits of the intal
+                3) the sign of the intal
+        Using a few functionalities from the stdlib.h library such as qsort(), bsearch() to account for the execution time                      .
+        
+        
+
