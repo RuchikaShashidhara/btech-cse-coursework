@@ -1,0 +1,80 @@
+Allocation Policy: Best Fit
+
+Explanation of the bookkeeping structure:
+
+List - Data structure(List) that holds the blocks of allocated and free blocks. Each block holds the size of the block, address of the next block, a flag called free that holds either 0 or 1, 1 - free block, 0 - allocated block
+
+struct block
+{
+	int size;	    //size of bytes in allocated/free block
+	int free;	    //flag free, 1 - free block, 0 - allocated block
+	struct block *next; //address of the next block
+};
+
+Logic used to implement this policy:
+
+void *mymalloc(int requestedSize)
+The mymalloc function returns the pointer that refers to the free memory location of requestedSize bytes on the policy of best fit, returns NULL if no free memory block is found. 
+	 
+	 Steps:
+	 1) Initializing resultBlock pointer that will return the starting address of the allotted memory that is requested
+	 2) Initalizing prev block pointer
+	 3) Initalizing current - curr block pointer pointing to List
+	 4) Traversing to the smallest free block that is available to allocate memory
+	 5) If the requestedSize <= current block size <= requestedSize + size of book
+	 	  a) Making the free block into allocated block by setting free flag to 0
+ 		  b) Returning the address of the allocted memory block
+	 6) If current block size > requestedSize
+	 	  a) Split the current free block into one block of alloacted block with requestedSize and a free block with remaining memory by calling splitBlocks function
+		  b) Returning the address of the allocted memory block
+	 7) Returning NULL when no free block of memory is present in List
+
+splitBlocks(Block *fittingSlot, int blockSize)
+The splitBlocks function makes a new block allocated by splitting a free block and stores it in List. 
+	 
+	 Steps:	
+	 1) Initializing new block - newBlock pointing to the block of memory whose size is more than required - fittingSlot
+	 2) Setting the size of newBlock to the amount of free pace after the block is split
+	 3) Setting the free flag to 1, as newBlock becomes a free block
+	 4) Pointing newBlock to the address of List where fittingSlot was pointing to before
+	 5) Pointing fittingSlot to the address of newBlock
+	 6) Setting the free flag to 0, as fittingBlock becomes an allocated block
+	 7) Setting the size of fittingBlock to the size of bytes that was requested i.e. blockSize
+
+void myfree(void* b)
+The free function frees the block pointed by the parameter including merging two free blocks if present, doesn't do anything when the pointer points to NULL.
+
+	Steps:	
+	1) Checking whether the address of the given pointer lies within the address range of char memory array
+	2) Initializing the current block pointer to b
+        3) Making the allocated block to free block by setting the free flag to 0
+	4) Merging two consecutive free blocks by removing a conceptual book block between them by calling mergeBlocks function
+	5) Doesn't do anything if the pointer to be freed is NULL or out of range
+
+void mergeBlocks()
+The mergeBlocks function merges the consecutive free blocks by removing the conceptual book block in between them and stores it in List. 	  
+	 Steps:	
+	 1) Initializing prev Block pointer
+	 2) Initialzing current curr Block pointer pointing to List
+	 3) Traversing till the last two blocks of List
+	 4) Checking if the current block and the block after the current block are free blocks
+		  a) Setting the size of the current block to the size of current free block and size of the free block after the current free block
+		  b) Pointing the current free block to List where the block after current free block was pointing to
+	 5) Assigning the current block to prev block
+	 6) Traversing to the next block
+	 
+Key takeaway from this assignment:
+
+1) Learnt how to make a memory manager that keeps track of the status of each memory location, either allocated or free. 
+2) It determines how memory is allocated among competing processes, deciding which gets memory, when they receive it, and how much they are allowed. 
+3) The work of memory manager is to allocate memory, manage memory by providing memory addresses to a Loader,a program that loads another program into main memory using memory addresses provided by memory manager.
+
+Additional Notes:
+
+static Block *bestBlock(int requestedSize)
+Returns the smallest free block if present, else returns NULL. Steps:
+	1) Initializing a block of minimum size - minSizeBlock wrt free block present in List
+	2) Initializing a block pointer to traverse List
+	3) Trversing List till the last block of List
+	4) Checking whether the block is free and size of free block >= requestedSize in mymalloc function and size of the current free block > size of previous minSizeBlock and assigning the current block to minSizeBlock
+	5) Returning the minSizeBlock	 

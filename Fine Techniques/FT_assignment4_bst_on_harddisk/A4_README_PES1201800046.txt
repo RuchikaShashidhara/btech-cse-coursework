@@ -1,0 +1,60 @@
+Binary Search on a Harddisk - PES1201800046
+
+Implementation file: A4_PES1201800046.c
+
+Key takeaway:
+	
+	> Usage of binary file operations such as fseek, ftell, fread, fwrite for data in raw form in .dat files 
+	  rather than ASCII in .txt files
+	  
+	> Any structure can be stored in a binary file from array lists, struct lists, binary trees to binary search trees 
+	  because we can change the contents of the structure anywhere in the file during i/o operations in run-time
+	  
+	> Pointers have no meaning when written into files, so offsets are used in a form of list to show/link the                 
+	  next connecting node, here the free gaps nodes, left child and right child nodes
+	  
+	> File sizes dosen't need to be increased until the node gaps in the file are filled, these node gaps are 
+	  retrieved from free_head list, where the next free_head node stores the offset of the next node gap and so on
+	  
+	> Root node deletion was a special case to be considered as the starting tree value of free_head, root also had 
+	  to be changed after deleting the root node and replacing it with it's inorder successor
+	  
+	> By storing BST on a harddisk, storage size decreases immensely to n storage size for n nodes nodes rather than 
+	  having 2^2n storage size for n nodes
+
+Additional Notes:
+	
+	> Helper functions - inorder(fp, off) and preorder(fp, off) are recursive traversal implementations used 
+	  inside their respective wrapped up traversal functions - display_inorder(fp) and display_preorder(fp)
+	  
+	> Flags - flag, flag2, flag3 are used to indicate whether the node is a root node or not, whether write operations 
+	  have already been performed, key already exists for insertion and key doesn't exist for deletion, where no write 
+	  operation needs to be performed
+
+	> Integer offsets, structures node_t used for functions: insert_key(key, fp) and delete_key(key, fp)
+	  offset	node_t		usage
+
+	  insert_key(key, fp)
+	  temp_off	curr_node	node for traversal
+	  temp_off	temp_node	node to be inserted
+	  prev_off	prev_node	parent node of temp_node
+	  free_head(0)	next_free	node to be filled when gaps exist in the file	
+
+          delete_key(key, fp)
+	  temp_off	curr_node	node to be deleted
+	  prev_off	prev_node	parent node of curr_node
+	  t_off		temp_node	inorder successor node of temp_node
+	  pt_off	ptemp_node	parent node of temp_node
+	  head_off	free_head	free node offset before curr_node containing key is deleted
+
+	> Conditions taken care while insertion/deletion of a node containing key:
+	  1) Root node and updating the files first tree structure for the root offset
+	  2) Node having 0 children (leaf nodes)
+	  3) Node having 1 child by deleting the node and replacing the parents child offset with nodes child offset
+	  4) Node having 2 children by replacing the node with its inorder successor i.e. min(right subtree of node)
+	  5) Updating the files first tree structure for free head list in LIFO when an insertion/deletion takes place
+	  6) Updating the files first tree structure for both the root offset and free head list 
+             for insertion when empty tree exists and deletion when only root is present	  
+	  
+	  
+

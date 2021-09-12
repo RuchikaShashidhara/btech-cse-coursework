@@ -1,0 +1,54 @@
+Assignment 2: Stepanov's Binary Counter to find the second biggest element in an array of integers
+
+How to compile the code:
+
+Header files included in the Server file(A2_PES1201800046.c):
+stdlib.h, stdio.h, math.h, assignment_2.h 
+(-lm falg to be included while compiling)
+
+Data Structures used:
+
+Two Linked Lists called L1 and L2. Each node(called by Node_t) in L1 and L2 contain an integer data value of the node and a pointer that holds the address of the next node.
+
+//Each element of the (Data Structure)Linked Lists - L1 and L2
+struct node
+{
+	int key;		//Integer data value of each node
+	struct node *next;	//Pointer that holds the address of the next node
+};
+typedef struct node Node_t;
+
+Key takeaway from this assignment:
+
+1) Time complexity is reduced to n + logn - 2  by playing a tournament between pairs of elements of the array
+2) Space complexity is reduced to multiples of logn^2 
+3) This solution finds the second largest element with a fewer number of comparisions and space and it can be extended to find the k-th largest elements by simply doing k repetitive tournaments.
+4) This solution is used on unsorted array which is optimal than sorting an array first and finding the second largest element by accessing sortedArray[2] where the complexity is usually greater than nlogn
+5) I have used two Linked Lists that return a Linked List consisting of the max element and losing set of elements, space complexity is efficient as both the lists are merged into one list, by adding one extra element to the Linked List to be merged and the other Linked List is freed, so all those elements of the other Linked List are deleted. This is similar to a divide and conquer algorithm.
+
+Implementation:
+
+void find_second_greatest(int *numbers, int length) returns the second highest value of the array *numbers of size length it calls maxWinnerSet to find a list of the highest value of the array *numbers and a losing set of elements that have lost to this highest value.
+
+static Node_t *maxWinnerSet(int *numbers, int left, int right) returns a set of winner sets of maximum elements which have lost to the first node of the list. 
+- It first splits the array into two divisions
+- The split is given by pow(2, (int)ceil(log(right - left + 1)/log(2)) - 1), i.e. 2^(ceil(log2(length)) / 2
+- 2^(ceil(log2(length))/2 gives the index of power of 2 elements of the next number after the length of array
+- The other split is the remaining elements after the split.
+- For each split maxWinnerSet is called to retrieve the highest value of the division array and a losing set of elements that have lost to this highest value
+- Then the the Linked List with the greater value of the first element, links the losing value of the first element of the other Linked List, i.e. the tournament is played between the Linked Lists the the winner set Linked List is merged with the losing value from the other Linked List
+- The other Linked List elements are freed after merging its first value to the maxWinnerSet Linked List
+- The new Linked List that is merged is returned
+(Eg: L1 = 5 -> 3 -> 2 -> NULL, L2 = 7 -> 4 -> NULL
+     L1 x L2 = L2 = 7 -> 5 -> 4 -> NULL(L2 Linked List is returned after inserting 5), 3 -> 2 -> NULL (L1 Linked List is freed)
+- The above steps are called until the size of the division is less than or equal to 2 elements
+- When there is a single element, a Linked List of a single node element is created and returned
+(Eg: 8 = 8 -> NULL)
+- When there are two elemets, a Linked List is created and returned after playing a tournament between them. The Linked List will contain the larger element as the first element followed by the smaller element as the second element
+(Eg: 3 x 4 = 4 -> 3 -> NULL)
+
+static void displayList(Node_t* L) is a display function to view the nodes in the maxWinnerSet L Linked List
+
+
+
+
